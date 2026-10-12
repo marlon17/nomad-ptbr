@@ -1,0 +1,41 @@
+{
+  "nome": "Pacote Brasil (PT-BR)",
+  "descricao": "Conteudo offline em portugues para o Project NOMAD. Cada item e um prefixo de arquivo do catalogo Kiwix; o instalador sempre pega a versao mais recente.",
+  "niveis": [
+    {
+      "id": "essencial",
+      "nome": "Essencial",
+      "itens": [
+        { "prefixo": "wikipedia_pt_all_mini_", "titulo": "Wikipedia em portugues (resumida)" },
+        { "prefixo": "wikipedia_pt_medicine_maxi_", "titulo": "Medicina (Wikipedia)" },
+        { "prefixo": "wikibooks_pt_all_maxi_", "titulo": "Wikilivros" },
+        { "prefixo": "wiktionary_pt_all_nopic_", "titulo": "Wikcionario (dicionario)" },
+        { "prefixo": "phet_pt_all_", "titulo": "Simulacoes interativas PhET" },
+        { "prefixo": "vikidia_pt_all_maxi_", "titulo": "Vikidia (enciclopedia infantil)" }
+      ]
+    },
+    {
+      "id": "padrao",
+      "nome": "Padrao",
+      "inclui": "essencial",
+      "itens": [
+        { "prefixo": "ifixit_pt_all_", "titulo": "iFixit - guias de conserto" },
+        { "prefixo": "wikiversity_pt_all_maxi_", "titulo": "Wikiversidade" },
+        { "prefixo": "gutenberg_pt_all_", "titulo": "Biblioteca Projeto Gutenberg" },
+        { "prefixo": "wikivoyage_pt_all_maxi_", "titulo": "Wikivoyage (guia de viagem)" },
+        { "prefixo": "wikiquote_pt_all_maxi_", "titulo": "Wikiquote" },
+        { "prefixo": "freecodecamp_pt_all_", "titulo": "freeCodeCamp (programacao)" }
+      ]
+    },
+    {
+      "id": "completo",
+      "nome": "Completo",
+      "inclui": "padrao",
+      "remove": ["wikipedia_pt_all_mini_"],
+      "itens": [
+        { "prefixo": "wikipedia_pt_all_maxi_", "titulo": "Wikipedia em portugues (completa, com imagens)" },
+        { "prefixo": "wikisource_pt_all_maxi_", "titulo": "Wikisource (textos e livros)" }
+      ]
+    }
+  ]
+}

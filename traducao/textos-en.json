@@ -1,0 +1,5387 @@
+{
+ "\"? Files move to Uncategorized.": [
+  "components/chat/CollectionsManager.tsx"
+ ],
+ "% Utilized": [
+  "pages/settings/system.tsx"
+ ],
+ "% complete": [
+  "pages/settings/update.tsx"
+ ],
+ "'s settings and installed models. We recommend starting with smaller models first to see how they perform on your system before moving on to larger ones.": [
+  "pages/settings/models.tsx"
+ ],
+ "(built-in)": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "(default)": [
+  "components/AppUrlModal.tsx"
+ ],
+ "(estimate excludes some files we have no prior data for)": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "(estimate)": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "(includes": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "(plus everything in": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "(source build": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "(street)": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "(up to date)": [
+  "components/updates/AppAutoUpdateSection.tsx",
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "(world)": [
+  "components/CountryPickerModal.tsx"
+ ],
+ ") from this NOMAD. You can reinstall the pack anytime.": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "). Covers the entire planet so you won't need individual region files. Make sure you have enough disk space.": [
+  "pages/settings/maps.tsx"
+ ],
+ "+ Create \"": [
+  "components/chat/CollectionCombobox.tsx"
+ ],
+ ", about": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ ", build": [
+  "pages/settings/maps.tsx"
+ ],
+ ", so these files will be indexed automatically once downloaded. You can change this in the Knowledge Base settings.": [
+  "components/TierSelectionModal.tsx"
+ ],
+ ", so these files will sit unindexed until you opt in from the Knowledge Base settings.": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "- Click to choose": [
+  "components/CategoryCard.tsx"
+ ],
+ "- Data analysis and encoding toolkit by GCHQ (Apache 2.0 License)": [
+  "pages/settings/legal.tsx"
+ ],
+ "- Local large language model runtime (MIT License)": [
+  "pages/settings/legal.tsx"
+ ],
+ "- Offline Wikipedia and content reader (GPL-3.0 License)": [
+  "pages/settings/legal.tsx"
+ ],
+ "- Offline learning platform by Learning Equality (MIT License)": [
+  "pages/settings/legal.tsx"
+ ],
+ "- Self-hosted note-taking application (MIT License)": [
+  "pages/settings/legal.tsx"
+ ],
+ "- Vector search engine for AI knowledge base (Apache 2.0 License)": [
+  "pages/settings/legal.tsx"
+ ],
+ ". Always read each product’s full label and check with a professional before combining medicines.": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ ". Changes take effect for new conversations.": [
+  "pages/settings/models.tsx"
+ ],
+ ". Current override:": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ ". Data is not persisted unless you add volume mounts above.": [
+  "components/CustomAppModal.tsx"
+ ],
+ ". For each file, NOMAD will delete the existing embeddings from Qdrant and queue a fresh embedding job using the current chunking and embedding model.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ ". It will download in the background and appear in Kiwix when ready.": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ ". Only files currently on disk will exist in Qdrant afterwards.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ ". Read each label’s full warnings, and check with a pharmacist or clinician before combining medicines.": [
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ ". This allows": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "128K tokens": [
+  "pages/settings/models.tsx"
+ ],
+ "16K tokens": [
+  "pages/settings/models.tsx"
+ ],
+ "24 hours (1 day)": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "32K tokens": [
+  "pages/settings/models.tsx"
+ ],
+ "48 hours (2 days)": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "4K tokens": [
+  "pages/settings/models.tsx"
+ ],
+ "64K tokens": [
+  "pages/settings/models.tsx"
+ ],
+ "7 days": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "72 hours (3 days)": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "8K tokens": [
+  "pages/settings/models.tsx"
+ ],
+ "; dosages and warnings differ between products.": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "? It may take some time for it to be available depending on the file size and your internet connection.": [
+  "pages/settings/maps.tsx"
+ ],
+ "? It may take some time for it to be available depending on the file size and your internet connection. The Kiwix application will be restarted after the download is complete.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "? The Kiwix application will be restarted after the download is complete.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "? This action cannot be undone.": [
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/index.tsx"
+ ],
+ "? This will": [
+  "pages/settings/apps.tsx"
+ ],
+ "? This will start the service and make it available in your Project NOMAD instance. It may take some time to complete.": [
+  "pages/settings/apps.tsx"
+ ],
+ "A Library of Knots": [
+  "collections"
+ ],
+ "A ZIM file with that name already exists": [
+  "zim_controller.ts"
+ ],
+ "A benchmark is already running": [
+  "benchmark_controller.ts"
+ ],
+ "A custom app named \"{0}\" already exists. Choose a different name.": [
+  "system_controller.ts"
+ ],
+ "A link named \"{0}\" already exists. Choose a different name.": [
+  "system_controller.ts"
+ ],
+ "A new version ({0}) is available for your Project NOMAD instance.": [
+  "pages/settings/update.tsx"
+ ],
+ "A shortcut to something else on your network": [
+  "pages/home.tsx"
+ ],
+ "A shortcut you added. NOMAD does not manage this.": [
+  "pages/home.tsx"
+ ],
+ "A single http(s) URL used to check connectivity. Any HTTP response counts as online.": [
+  "pages/settings/advanced.tsx"
+ ],
+ "AI / Bot": [
+  "components/CustomAppModal.tsx"
+ ],
+ "AI Assistant": [
+  "pages/settings/models.tsx",
+  "pages/settings/system.tsx",
+  "service_seeder.ts"
+ ],
+ "AI Assistant service not installed": [
+  "chats_controller.ts"
+ ],
+ "AI Inference": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "AI Model Used": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "AI Models": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "AI Models to Download (": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "AI Only": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "AI Performance": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "AI Score": [
+  "components/benchmark/ScoreReveal.tsx",
+  "lib/benchmarkScore.ts",
+  "pages/settings/benchmark.tsx"
+ ],
+ "AI Time to First Token": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "AI Tokens/sec": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "AI benchmark started": [
+  "benchmark_controller.ts"
+ ],
+ "AI model": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "API Reference": [
+  "layouts/SettingsLayout.tsx"
+ ],
+ "Action": [
+  "pages/settings/models.tsx"
+ ],
+ "Actions": [
+  "pages/settings/apps.tsx",
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/index.tsx"
+ ],
+ "Active": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "lib/kb_job_health_display.ts"
+ ],
+ "Active Downloads": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Active Model Downloads": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Add": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Add Custom App": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Add Custom Library": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Add Kiwix mirrors or other ZIM file sources for faster downloads.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Add Library": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Add Link": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Add Port": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Add Variable": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Add Volume": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Add a Link": [
+  "components/LinkTileModal.tsx",
+  "pages/home.tsx"
+ ],
+ "Add a shortcut to something you already run, on this machine or anywhere else on your network. NOMAD does not manage it, it just puts a button on your dashboard.": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Add another situation": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Add marker at coordinates": [
+  "pages/maps.tsx"
+ ],
+ "Add notes (optional)": [
+  "components/maps/MapMarkerFormPopup.tsx"
+ ],
+ "Add to interaction comparison": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Added": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Additional Content": [
+  "pages/easy-setup/index.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Adds educational videos, university-level tutorials, and STEM textbooks. Includes Essential.": [
+  "collections"
+ ],
+ "Advanced": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/advanced.tsx"
+ ],
+ "Advanced Settings | Project NOMAD": [
+  "pages/settings/advanced.tsx"
+ ],
+ "Advanced configuration for operators. These settings are optional — the defaults work for most deployments.": [
+  "pages/settings/advanced.tsx"
+ ],
+ "Agriculture & Food": [
+  "collections"
+ ],
+ "Alabama": [
+  "collections"
+ ],
+ "Alaska": [
+  "collections"
+ ],
+ "All": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/chat/index.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "All 6+ million articles in condensed format.": [
+  "collections"
+ ],
+ "All Content Up to Date": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "All articles without images. Comprehensive offline reference.": [
+  "collections"
+ ],
+ "All available capabilities are already installed!": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "All data associated with Project NOMAD is stored locally on your device:": [
+  "pages/settings/legal.tsx"
+ ],
+ "All installed content is up to date. New versions will appear here when detected.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "All items downloaded": [
+  "components/CuratedCollectionCard.tsx"
+ ],
+ "All languages": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "All resources in the collection \"{0}\" have already been downloaded.": [
+  "pages/settings/maps.tsx"
+ ],
+ "All your data, downloaded content, AI conversations, and notes remain on your device.": [
+  "pages/settings/legal.tsx"
+ ],
+ "All your installed content is running the latest available version.": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Already downloaded — re-select to update with a different zoom": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Also remove the Docker image to reclaim disk space": [
+  "pages/supply-depot.tsx"
+ ],
+ "Always": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "Always follow the directions on the": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "Always seek the advice of qualified health providers with questions about medical conditions.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Amateur Radio Q&A": [
+  "collections"
+ ],
+ "An error occurred during setup. Some items may not have been processed.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "An error occurred while changing Wikipedia selection": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "An error occurred while downloading the base map assets. Please try again.": [
+  "pages/settings/maps.tsx"
+ ],
+ "An error occurred while starting downloads.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "An error occurred while starting the install.": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "An error occurred while uninstalling.": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "An internal error occurred while running the benchmark.": [
+  "benchmark_controller.ts"
+ ],
+ "An internet connection is only required to download content or updates. All installed features work fully offline.": [
+  "pages/settings/legal.tsx"
+ ],
+ "An update is available for Project NOMAD!": [
+  "pages/home.tsx"
+ ],
+ "Answered questions on hiking, camping, navigation, and wilderness skills": [
+  "collections"
+ ],
+ "Answered questions on radio equipment, antennas, licensing, and emergency communications": [
+  "collections"
+ ],
+ "Any data already downloaded will remain on disk. If you re-download this model later, it will resume from where it left off rather than starting over.": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Any form": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "App Installation Activity": [
+  "pages/easy-setup/complete.tsx"
+ ],
+ "App Settings": [
+  "pages/settings/apps.tsx"
+ ],
+ "App auto-update preference updated": [
+  "system_controller.ts"
+ ],
+ "App auto-updates off — open Settings": [
+  "pages/supply-depot.tsx"
+ ],
+ "App automatic updates disabled.": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "App automatic updates enabled.": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "Application Data:": [
+  "pages/settings/legal.tsx"
+ ],
+ "Apps": [
+  "pages/settings/apps.tsx"
+ ],
+ "Architecture": [
+  "pages/settings/system.tsx"
+ ],
+ "Arduino Q&A": [
+  "collections"
+ ],
+ "Are you sure you want to": [
+  "pages/settings/apps.tsx"
+ ],
+ "Are you sure you want to delete": [
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/index.tsx"
+ ],
+ "Are you sure you want to delete all chat sessions? This action cannot be undone and all conversations will be permanently deleted.": [
+  "components/chat/index.tsx"
+ ],
+ "Are you sure you want to delete this model? You will need to download it again if you want to use it in the future.": [
+  "pages/settings/models.tsx"
+ ],
+ "Are you sure you want to download": [
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Are you sure you want to force reinstall": [
+  "pages/settings/apps.tsx"
+ ],
+ "Are you sure you want to install": [
+  "pages/settings/apps.tsx"
+ ],
+ "Are you sure you want to restart": [
+  "pages/settings/apps.tsx"
+ ],
+ "Arizona": [
+  "collections"
+ ],
+ "Arkansas": [
+  "collections"
+ ],
+ "Articles:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Ask me first": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Assistant Name": [
+  "pages/settings/models.tsx"
+ ],
+ "Attach images": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Attached images": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Author:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Auto (recommended)": [
+  "pages/settings/models.tsx"
+ ],
+ "Auto-index Setting": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Auto-index new content for": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Auto-index new content for AI?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Auto-update schedule saved.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Auto-updates for {0} are {1}.": [
+  "pages/supply-depot.tsx"
+ ],
+ "Automatic App Updates": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "Automatic Content Updates": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Automatic Content Updates Disabled": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Automatic Core Updates": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Automatic Core Updates Disabled": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Automatic Reload": [
+  "pages/settings/update.tsx"
+ ],
+ "Automatic content updates disabled.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Automatic content updates enabled.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Automatic updates disabled.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Automatic updates enabled.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Automatically download newer versions of your installed Information Library content (ZIM files) and maps during your chosen window. Content downloads can be very large, so set a per-window data cap to limit how much is pulled at once. We recommend allowing at least 0.5 GB per update window to ensure most updates can be pulled in a timely manner, but you can set a lower cap if you have very limited bandwidth and don't mind some updates being skipped (they will still appear in the UI and can be updated manually). If an update repeatedly fails to download within the window, it will be automatically disabled and require manual intervention to re-enable.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Automatically install minor and patch updates during your chosen window. Major versions always require a manual update due to their potentially breaking nature.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Automatically install minor and patch updates for apps you've opted in (toggle each app in Supply Depot). Major versions always require a manual update. Uses the same update window and cool-off period as the core schedule above.": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "Available RAM": [
+  "pages/settings/system.tsx"
+ ],
+ "Back": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Back to Home": [
+  "components/StyledSidebar.tsx",
+  "components/chat/ChatSidebar.tsx",
+  "components/layout/BackToHomeHeader.tsx",
+  "layouts/AppLayout.tsx",
+  "pages/maps.tsx"
+ ],
+ "Backup Reminder": [
+  "pages/settings/update.tsx"
+ ],
+ "Base URL": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Base map assets are missing and could not be downloaded. Please check your connection and try again.": [
+  "maps_controller.ts"
+ ],
+ "Base map assets downloaded successfully.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Base map downloaded successfully.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Based.Cooking": [
+  "collections"
+ ],
+ "Beekeeping, animal husbandry, and sustainable living practices": [
+  "collections"
+ ],
+ "Before answering, ask the Tasks Model whether the passages found are actually about your question, and leave them out (and uncited) when they are not. Helps most with large libraries like Wikipedia or Project Gutenberg, where something always looks similar. Needs a capable Tasks Model (about 8B parameters or larger); smaller models reject too many good matches. Adds a short delay to every reply.": [
+  "pages/settings/models.tsx"
+ ],
+ "Before you use the Drug Reference": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "Benchmark": [
+  "layouts/SettingsLayout.tsx"
+ ],
+ "Benchmark Details": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Benchmark Failed": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Benchmark History": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Benchmark ID": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Benchmark Info": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Benchmark Type": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Benchmark job already exists": [
+  "benchmark_controller.ts"
+ ],
+ "Benchmark result not found": [
+  "benchmark_controller.ts"
+ ],
+ "Benchmark throughput": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Best match": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Biology courses and textbooks": [
+  "collections"
+ ],
+ "Blue": [
+  "hooks/useMapMarkers.ts"
+ ],
+ "Book": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Box": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Boxed Warning": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Brand": [
+  "pages/settings/system.tsx"
+ ],
+ "Branded video collections from creators, downloaded for offline viewing in Kiwix.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Branded video collections from creators, for offline viewing": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Browse and download content for offline reading!": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Browse and install curated apps, or add your own Docker container": [
+  "pages/home.tsx"
+ ],
+ "Browse and install curated apps, or add your own custom apps by providing a Docker image.": [
+  "pages/supply-depot.tsx"
+ ],
+ "Browse the Kiwix Library": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Browser-based client for MeshCore mesh radio devices": [
+  "service_seeder.ts"
+ ],
+ "Browser-based client for managing Meshtastic mesh radio devices": [
+  "service_seeder.ts"
+ ],
+ "Builder Tag": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Business, economics, and management textbooks": [
+  "collections"
+ ],
+ "Buy Us a Coffee": [
+  "pages/settings/support.tsx"
+ ],
+ "By situation": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "CD3WD: Appropriate Technology Library": [
+  "collections"
+ ],
+ "CDC Health Information": [
+  "collections"
+ ],
+ "CPU Cores": [
+  "pages/settings/system.tsx"
+ ],
+ "CPU Load": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "CPU Score": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "CPU Usage": [
+  "pages/settings/system.tsx"
+ ],
+ "CPU multi-thread (": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "CPU package": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "CPU single-thread": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "CPUs — default 1": [
+  "components/CustomAppModal.tsx"
+ ],
+ "CSS Documentation": [
+  "collections"
+ ],
+ "Calculating your NOMAD Score...": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Calibre Web": [
+  "service_seeder.ts"
+ ],
+ "California": [
+  "collections"
+ ],
+ "Canadian Prepper: Bug Out Concepts": [
+  "collections"
+ ],
+ "Canadian Prepper: Bug Out Roll": [
+  "collections"
+ ],
+ "Canadian Prepper: Prepping Food": [
+  "collections"
+ ],
+ "Canadian Prepper: Winter Prepping": [
+  "collections"
+ ],
+ "Cancel": [
+  "components/AppUrlModal.tsx",
+  "components/CountryPickerModal.tsx",
+  "components/CustomAppModal.tsx",
+  "components/DownloadURLModal.tsx",
+  "components/GpuPassthroughAlert.tsx",
+  "components/KbGuardrailModal.tsx",
+  "components/LinkTileModal.tsx",
+  "components/UpdateServiceModal.tsx",
+  "components/chat/CollectionsManager.tsx",
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/chat/NomadMdModal.tsx",
+  "components/chat/index.tsx",
+  "components/maps/MapMarkerFormPopup.tsx",
+  "components/maps/MarkerPanel.tsx",
+  "pages/home.tsx",
+  "pages/settings/apps.tsx",
+  "pages/settings/maps.tsx",
+  "pages/settings/models.tsx",
+  "pages/settings/zim/index.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Cancel & Go to Home": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Cancel All Embedding Jobs?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Cancel All Jobs": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Cancel Download": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Cancel Download?": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Cancel download": [
+  "components/ActiveDownloads.tsx",
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Capabilities to Install": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Caps prevent a runaway container from starving the host. Leave blank to use the defaults (1024 MB / 1 CPU).": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Category": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Category:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Cautions:": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx"
+ ],
+ "Chat Suggestions": [
+  "pages/settings/models.tsx"
+ ],
+ "Chat conversations": [
+  "components/chat/ChatSidebar.tsx"
+ ],
+ "Check Again": [
+  "pages/settings/update.tsx"
+ ],
+ "Check for Content Updates": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Check for Updates": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Check if newer versions of your installed ZIM files and maps are available.": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Checking for conflicts…": [
+  "pages/supply-depot.tsx"
+ ],
+ "Checking port availability…": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Chemistry courses and textbooks": [
+  "collections"
+ ],
+ "Choose Content": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Choose Map Regions": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Choose custom marker color": [
+  "components/maps/MapMarkerFormPopup.tsx"
+ ],
+ "Choose custom marker icon": [
+  "components/maps/MapMarkerFormPopup.tsx"
+ ],
+ "Choose models to download and set how": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Classic military strategy, tactics, and field manuals": [
+  "collections"
+ ],
+ "Classic texts on farming, animal husbandry, plant cultivation, and food preservation": [
+  "collections"
+ ],
+ "Clean Up Failed": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Cleaned up {0} failed job{1}{2}.": [
+  "rag_controller.ts"
+ ],
+ "Clear": [
+  "components/AppUrlModal.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/settings/models.tsx"
+ ],
+ "Clear All": [
+  "components/chat/index.tsx"
+ ],
+ "Clear All Chat History?": [
+  "components/chat/index.tsx"
+ ],
+ "Clear History": [
+  "components/chat/ChatSidebar.tsx"
+ ],
+ "Clear all": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Click 'Complete Setup' to begin installing apps and downloading content. This may take some time depending on your internet connection and the size of the downloads.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Click anywhere on the map to drop a pin": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Close": [
+  "components/DebugInfoModal.tsx",
+  "components/ServiceLogsModal.tsx",
+  "components/ServiceStatsModal.tsx",
+  "components/chat/CollectionsManager.tsx",
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/maps/IconSelectorPopover.tsx",
+  "components/maps/ViewMapMarkerPopup.tsx",
+  "pages/settings/update.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Close chat": [
+  "components/chat/index.tsx"
+ ],
+ "Close conversation sidebar": [
+  "components/chat/index.tsx"
+ ],
+ "Close panel": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Close sidebar": [
+  "components/StyledSidebar.tsx"
+ ],
+ "Code": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Collapse row": [
+  "components/StyledTable.tsx"
+ ],
+ "Collecting, filtering, and purifying drinking water": [
+  "collections"
+ ],
+ "Collection": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Collection download started successfully": [
+  "maps_controller.ts"
+ ],
+ "Collection of handy utilities for developers — UUID, hash, encoding, formatters, and more": [
+  "service_seeder.ts"
+ ],
+ "Collection:": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Color": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Colorado": [
+  "collections"
+ ],
+ "Command Center": [
+  "layouts/AppLayout.tsx",
+  "pages/home.tsx"
+ ],
+ "Commonly used for": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Compare label warnings": [
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Compiling Report": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Compiling report...": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Complete Python language reference and tutorials": [
+  "collections"
+ ],
+ "Complete Setup": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Complete Wikipedia (Compact)": [
+  "collections"
+ ],
+ "Complete Wikipedia (Full)": [
+  "collections"
+ ],
+ "Complete Wikipedia (No Images)": [
+  "collections"
+ ],
+ "Complete educational library with enhanced textbooks and TED talks. Includes Standard.": [
+  "collections"
+ ],
+ "Complete prepper library - post-disaster recovery, growing and storing food, off-grid technical references, and classic military strategy. Includes everything in Standard.": [
+  "collections"
+ ],
+ "Complete repair library with step-by-step guides for electronics and appliances. Includes Standard.": [
+  "collections"
+ ],
+ "Complete self-sufficiency with homesteading videos, classic agricultural texts, and advanced techniques. Includes Standard.": [
+  "collections"
+ ],
+ "Comprehensive": [
+  "collections",
+  "collections",
+  "collections",
+  "collections",
+  "collections",
+  "collections"
+ ],
+ "Comprehensive medical encyclopedia with detailed health information. Includes everything in Essential.": [
+  "collections"
+ ],
+ "Comprehensive urban emergency preparedness video series": [
+  "collections"
+ ],
+ "Compute": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Computing & Technology": [
+  "collections"
+ ],
+ "Condition not found": [
+  "conditions_controller.ts"
+ ],
+ "Configure": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Configure content for your selected capabilities.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Configure your NOMAD settings": [
+  "pages/home.tsx"
+ ],
+ "Confirm": [
+  "components/ActiveDownloads.tsx",
+  "components/chat/CollectionsManager.tsx",
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Confirm Delete?": [
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/index.tsx"
+ ],
+ "Confirm Download?": [
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Confirm Sync": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Confirm Sync?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Confirm large AI indexing operation": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "Connect to any OpenAI-compatible API server — Ollama, LM Studio, llama.cpp, and others are all supported. For remote Ollama instances, the host must be started with": [
+  "pages/settings/models.tsx"
+ ],
+ "Connecticut": [
+  "collections"
+ ],
+ "Connection Temporarily Lost (Expected)": [
+  "pages/settings/update.tsx"
+ ],
+ "Connectivity": [
+  "pages/settings/advanced.tsx"
+ ],
+ "Container Restarting": [
+  "pages/settings/update.tsx"
+ ],
+ "Container path": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Container port": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Containers are created with": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Content Categories (": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Content Disclaimer": [
+  "pages/settings/legal.tsx"
+ ],
+ "Content Explorer": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Content Explorer | Project NOMAD": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Content Manager": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/zim/index.tsx"
+ ],
+ "Content Manager | Project NOMAD": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Content update schedule saved.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Context Size": [
+  "pages/settings/models.tsx"
+ ],
+ "Context Window": [
+  "pages/settings/models.tsx"
+ ],
+ "Continue": [
+  "components/benchmark/ScoreReveal.tsx",
+  "components/chat/ChatMessageBubble.tsx"
+ ],
+ "Contraindications": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Cooking Q&A": [
+  "collections"
+ ],
+ "Cool-off Period": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Copied!": [
+  "components/DebugInfoModal.tsx"
+ ],
+ "Copy to Clipboard": [
+  "components/DebugInfoModal.tsx"
+ ],
+ "Copyright 2024-2026 Crosstalk Solutions, LLC": [
+  "pages/settings/legal.tsx"
+ ],
+ "Core Capabilities": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Core medical references for first aid, medications, and emergency care. Start here.": [
+  "collections"
+ ],
+ "Core reference materials - open textbooks and essential educational content. Lightweight, text-focused.": [
+  "collections"
+ ],
+ "Core repair knowledge - woodworking basics and vehicle maintenance Q&A.": [
+  "collections"
+ ],
+ "Cores": [
+  "pages/settings/benchmark.tsx",
+  "pages/settings/system.tsx"
+ ],
+ "Could not connect to {0} (HTTP {1}). Make sure the server is running and accessible. For Ollama, start it with OLLAMA_HOST=0.0.0.0.": [
+  "ollama_controller.ts"
+ ],
+ "Could not connect to {0}. Make sure the server is running and reachable. For Ollama, start it with OLLAMA_HOST=0.0.0.0.": [
+  "ollama_controller.ts"
+ ],
+ "Could not download the base map. Please connect this NOMAD to the internet and try again.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Could not fetch directory listing from the provided URL": [
+  "zim_controller.ts"
+ ],
+ "Could not fetch directory listing from this URL.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Could not load condition": [
+  "conditions_controller.ts"
+ ],
+ "Could not load drug label": [
+  "drug_reference_controller.ts"
+ ],
+ "Could not read ingest status": [
+  "drug_reference_controller.ts"
+ ],
+ "Could not reset ingest": [
+  "drug_reference_controller.ts"
+ ],
+ "Could not trigger download": [
+  "drug_reference_controller.ts"
+ ],
+ "Could not trigger ingest": [
+  "drug_reference_controller.ts"
+ ],
+ "Could not uninstall drug reference": [
+  "drug_reference_controller.ts"
+ ],
+ "Couldn't load file. It may have been moved or its type isn't viewable.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Creator Packs": [
+  "components/CreatorPacksSection.tsx",
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/creator-packs.tsx"
+ ],
+ "Creator Packs are not configured on this server": [
+  "creator_packs_controller.ts"
+ ],
+ "Creator Packs aren't available on this build.": [
+  "pages/settings/creator-packs.tsx"
+ ],
+ "Creator Packs to Install (": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Creator pack is not installed: {0}": [
+  "creator_packs_controller.ts"
+ ],
+ "Creator pack not found: {0}": [
+  "creator_packs_controller.ts"
+ ],
+ "Critical - Disk Almost Full": [
+  "pages/settings/system.tsx"
+ ],
+ "Crosstalk Solutions, LLC does not create, control, verify, or guarantee the accuracy, completeness, or reliability of any third-party content. The inclusion of any content does not constitute an endorsement.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Curated Content": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Curated Map Regions": [
+  "pages/settings/maps.tsx"
+ ],
+ "Curated collections for offline reference": [
+  "pages/easy-setup/index.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Curated medical articles from Wikipedia with images": [
+  "collections"
+ ],
+ "Current (": [
+  "components/StorageProjectionBar.tsx"
+ ],
+ "Current Version": [
+  "pages/settings/update.tsx"
+ ],
+ "Currently bound by: {0}. Installation may fail.": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Currently in effect:": [
+  "pages/settings/models.tsx"
+ ],
+ "Currently inside the window": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Currently outside the window": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Custom": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Custom URL": [
+  "components/AppUrlModal.tsx"
+ ],
+ "Custom URL must be a valid http(s) address (e.g. https://jellyfin.myhomelab.net).": [
+  "system_controller.ts"
+ ],
+ "Custom app {0} deleted": [
+  "system_controller.ts"
+ ],
+ "Custom apps are removed via delete.": [
+  "system_controller.ts"
+ ],
+ "Custom instructions passed to": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "Custom library added": [
+  "zim_controller.ts"
+ ],
+ "Custom library added.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Custom library removed": [
+  "zim_controller.ts"
+ ],
+ "Custom library removed.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "CyberChef": [
+  "pages/settings/legal.tsx"
+ ],
+ "DIY & Home Improvement Q&A": [
+  "collections"
+ ],
+ "DIY & Repair": [
+  "collections"
+ ],
+ "Data Cap (GB)": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Data Storage": [
+  "pages/settings/legal.tsx"
+ ],
+ "Data Tools": [
+  "service_seeder.ts"
+ ],
+ "Data cap must be 0 or a positive number of GB.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Data is from openFDA (U.S. FDA, public domain). NOMAD is not affiliated with or endorsed by the FDA.": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "Database": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Date": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Day Ops": [
+  "components/ThemeToggle.tsx"
+ ],
+ "Debug Info": [
+  "components/DebugInfoModal.tsx",
+  "components/Footer.tsx",
+  "components/StyledSidebar.tsx"
+ ],
+ "Deep electronics knowledge and extensive Q&A for hardware projects. Includes Standard.": [
+  "collections"
+ ],
+ "Default (Kiwix)": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Delaware": [
+  "collections"
+ ],
+ "Delay after a new version appears": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Delay after a release is published": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Delete": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/maps/MarkerPanel.tsx",
+  "pages/settings/maps.tsx",
+  "pages/settings/models.tsx",
+  "pages/settings/zim/index.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Delete Model?": [
+  "pages/settings/models.tsx"
+ ],
+ "Delete pin": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Deleting…": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Dependency services cannot be uninstalled directly.": [
+  "system_controller.ts"
+ ],
+ "Description (optional)": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Detected GPU:": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Detecting your system...": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Discard unsaved marker changes?": [
+  "components/maps/MapComponent.tsx"
+ ],
+ "Disease prevention, travel health, and outbreak information": [
+  "collections"
+ ],
+ "Disk": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Disk Read": [
+  "components/benchmark/BenchmarkRunView.tsx",
+  "components/benchmark/ScoreReveal.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Disk Read Score": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Disk Size": [
+  "pages/settings/models.tsx"
+ ],
+ "Disk Type": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Disk Write": [
+  "components/benchmark/BenchmarkRunView.tsx",
+  "components/benchmark/ScoreReveal.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Disk Write Score": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Disk read (O_DIRECT)": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Disk write (O_DIRECT)": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Dismiss alert": [
+  "components/Alert.tsx"
+ ],
+ "Dismiss failed download": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Display AI-generated conversation starters in the chat interface": [
+  "pages/settings/models.tsx"
+ ],
+ "Display Name": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Distribution": [
+  "pages/settings/system.tsx"
+ ],
+ "Do not rely on this data to make decisions regarding medical care. While every effort is made to ensure accuracy, you should assume all results are unvalidated.": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Docker (default)": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Docker Documentation": [
+  "collections"
+ ],
+ "Docker Image": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Docker container reference and guides": [
+  "collections"
+ ],
+ "Docs": [
+  "pages/home.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Documentation": [
+  "layouts/DocsLayout.tsx",
+  "pages/docs/show.tsx"
+ ],
+ "Dosage & Administration": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Double-check knowledge base matches": [
+  "pages/settings/models.tsx"
+ ],
+ "Download": [
+  "components/DownloadURLModal.tsx",
+  "components/chat/KnowledgeBaseModal.tsx",
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Download FDA data": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "Download Global Map?": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download Map File": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download Selected": [
+  "components/WikipediaSelector.tsx"
+ ],
+ "Download a Custom Map File": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download a complete worldwide map from Protomaps ({0}, build {1}). This is a large file but covers the entire planet — no individual region downloads needed.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download by country or region": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download complete": [
+  "components/ProgressBar.tsx"
+ ],
+ "Download failed": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Download for collection \"{0}\" has been queued.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download has been queued.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download job dispatched for model: {0}": [
+  "ollama_controller.ts"
+ ],
+ "Download map by country or region": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Download page": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Download queued. Watch progress below.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Download started successfully": [
+  "maps_controller.ts",
+  "zim_controller.ts"
+ ],
+ "Download the offline FDA drug labels from Drug Reference to see matches for this situation.": [
+  "pages/conditions/show.tsx"
+ ],
+ "Download the openFDA drug-label dataset to enable offline search and comparison.": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Download the openFDA drug-label dataset to enable offline search. Requires ~1.7 GB compressed download (~8–10 GB after ingestion).": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Downloaded Content:": [
+  "pages/settings/legal.tsx"
+ ],
+ "Downloading": [
+  "components/CreatorPackCard.tsx",
+  "components/WikipediaSelector.tsx"
+ ],
+ "Downloading Wikipedia... This may take a while for larger packages.": [
+  "components/WikipediaSelector.tsx"
+ ],
+ "Downloading...": [
+  "components/ActiveDownloads.tsx",
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Downloading…": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Downloads the newest Docker images for all core containers": [
+  "pages/settings/update.tsx"
+ ],
+ "Drop the entire embeddings collection and re-embed everything from scratch. Permanently removes vectors for files no longer on disk. Destructive: requires typing RESET to confirm.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Drug Interactions": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Drug Reference": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx",
+  "pages/drug-reference/show.tsx",
+  "pages/home.tsx"
+ ],
+ "Drug label not found": [
+  "drug_reference_controller.ts"
+ ],
+ "Duplicate host port(s): {0}. Each host port can map to only one container.": [
+  "system_controller.ts"
+ ],
+ "Early Access": [
+  "pages/settings/update.tsx"
+ ],
+ "Earth science, geology, and environmental studies": [
+  "collections"
+ ],
+ "Easily manage the": [
+  "pages/settings/models.tsx"
+ ],
+ "East North Central": [
+  "collections"
+ ],
+ "East South Central": [
+  "collections"
+ ],
+ "Easy Setup": [
+  "pages/home.tsx"
+ ],
+ "Easy Setup Wizard": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Easy Setup Wizard Complete": [
+  "pages/easy-setup/complete.tsx"
+ ],
+ "Edit": [
+  "components/maps/ViewMapMarkerPopup.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Edit App": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Edit Link": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Edit this link": [
+  "pages/home.tsx"
+ ],
+ "Education": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Education & Reference": [
+  "collections"
+ ],
+ "Education Platform": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Education Platform (Gen 2)": [
+  "service_seeder.ts"
+ ],
+ "Educational video lessons on science, history, literature, and more": [
+  "collections"
+ ],
+ "Elapsed": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "Electronics Q&A": [
+  "collections"
+ ],
+ "Eligible update ready: {0}": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Embedded 0 chunks — this file has no text content. AI Assistant cannot reference it.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Embedding": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Emergency preparedness, bug-out planning, and tactical survival skills for crisis situations.": [
+  "collections"
+ ],
+ "Enable Automatic App Updates": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "Enable Automatic Content Updates": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Enable Automatic Core Updates": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Enable Early Access": [
+  "pages/settings/update.tsx"
+ ],
+ "Enables OLLAMA_FLASH_ATTENTION=1 for improved memory efficiency. Disable if you experience instability. Takes effect after reinstalling the AI Assistant.": [
+  "pages/settings/models.tsx"
+ ],
+ "Encyclopedias, textbooks, tutorials, and educational videos for self-directed learning.": [
+  "collections"
+ ],
+ "Engineering courses and technical references": [
+  "collections"
+ ],
+ "Enhanced Document Processing with OCR": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Enter a name using letters or numbers.": [
+  "system_controller.ts"
+ ],
+ "Enter a valid URL, for example 192.168.1.50:8080 or https://nas.local.": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Enter a valid http(s) address (e.g. https://jellyfin.myhomelab.net). A bare host like \"jellyfin.lan\" becomes http://jellyfin.lan.": [
+  "components/AppUrlModal.tsx"
+ ],
+ "Enter the URL of the map region file you wish to download. The URL must be publicly reachable and end with .pmtiles. A preflight check will be run to verify the file's availability, type, and approximate size.": [
+  "components/DownloadURLModal.tsx"
+ ],
+ "Environment": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Environment Variables": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Error during re-embed all": [
+  "rag_controller.ts"
+ ],
+ "Error during reset and rebuild": [
+  "rag_controller.ts"
+ ],
+ "Error scanning and syncing storage": [
+  "rag_controller.ts"
+ ],
+ "Error subscribing to release notes: {0}": [
+  "pages/settings/update.tsx"
+ ],
+ "Essential": [
+  "collections",
+  "collections",
+  "collections",
+  "collections",
+  "collections",
+  "collections"
+ ],
+ "Essential gear selection for your bug-out bag": [
+  "collections"
+ ],
+ "Est. Speed:": [
+  "components/ProgressBar.tsx"
+ ],
+ "Estimated Pulls": [
+  "pages/settings/models.tsx"
+ ],
+ "Estimating size…": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Events per second": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Every contribution helps fund development, server costs, and new content packs for NOMAD. Even a small donation goes a long way.": [
+  "pages/settings/support.tsx"
+ ],
+ "Evidence:": [
+  "pages/conditions/show.tsx"
+ ],
+ "Excalidraw": [
+  "service_seeder.ts"
+ ],
+ "Exceeds available space by": [
+  "components/StorageProjectionBar.tsx"
+ ],
+ "Expand row": [
+  "components/StyledTable.tsx"
+ ],
+ "Extract started successfully": [
+  "maps_controller.ts"
+ ],
+ "FDA Drug Reference": [
+  "collections"
+ ],
+ "FDA data": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "FDA data version": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "FDA drug data": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "FDA drug labels": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "FDA drug labels.": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "FOSS Cooking": [
+  "collections"
+ ],
+ "Failed": [
+  "components/WikipediaSelector.tsx",
+  "components/chat/KnowledgeBaseModal.tsx",
+  "lib/kb_job_health_display.ts"
+ ],
+ "Failed to add custom library.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Failed to add message": [
+  "chats_controller.ts"
+ ],
+ "Failed to affect service": [
+  "system_controller.ts"
+ ],
+ "Failed to apply updates": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Failed to check for content updates": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Failed to create session": [
+  "chats_controller.ts"
+ ],
+ "Failed to delete all sessions": [
+  "chats_controller.ts"
+ ],
+ "Failed to delete session": [
+  "chats_controller.ts"
+ ],
+ "Failed to delete {0}. Please try again.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Failed to fetch available versions for this service.": [
+  "system_controller.ts"
+ ],
+ "Failed to fetch update logs": [
+  "pages/settings/update.tsx"
+ ],
+ "Failed to force reinstall service": [
+  "system_controller.ts"
+ ],
+ "Failed to get suggestions": [
+  "chats_controller.ts"
+ ],
+ "Failed to load creator packs": [
+  "creator_packs_controller.ts"
+ ],
+ "Failed to re-embed knowledge base.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Failed to reinstall: {0}": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Failed to reset knowledge base.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Failed to retrieve app auto-update status": [
+  "system_controller.ts"
+ ],
+ "Failed to retrieve auto-update status": [
+  "system_controller.ts"
+ ],
+ "Failed to retrieve content auto-update status": [
+  "system_controller.ts"
+ ],
+ "Failed to retrieve update status": [
+  "system_controller.ts"
+ ],
+ "Failed to save NOMAD.md.": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "Failed to save auto-update schedule.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Failed to save content update schedule.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Failed to save the GFX override: {0}": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Failed to start download.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Failed to start the global map download. Please try again.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Failed to start update for {0}": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Failed to subscribe: {0}": [
+  "pages/settings/update.tsx"
+ ],
+ "Failed to update app auto-update setting.": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "Failed to update auto-update setting.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Failed to update content auto-update setting.": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Failed to update session": [
+  "chats_controller.ts"
+ ],
+ "Failed to upload: {0}": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Feel free to leave this page at any time - your app installs and downloads will continue in the background! Please note, the Information Library (if installed) may be unavailable until all initial downloads complete.": [
+  "pages/easy-setup/complete.tsx"
+ ],
+ "Field and emergency medicine books and guides": [
+  "collections"
+ ],
+ "Field notes on low-tech living - solar power, water, food, and repair from a decade off-grid": [
+  "collections"
+ ],
+ "File Browser": [
+  "service_seeder.ts"
+ ],
+ "File not found": [
+  "rag_controller.ts"
+ ],
+ "File not found or not viewable": [
+  "rag_controller.ts"
+ ],
+ "File removed from knowledge base.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "File warnings unavailable — couldn't read storage state. Retrying…": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "File:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Finding options…": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "First token in {0} ms": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Fix it yourself - repair guides, home improvement, woodworking, and vehicle maintenance.": [
+  "collections"
+ ],
+ "Flash Attention": [
+  "pages/settings/models.tsx"
+ ],
+ "FlatNotes": [
+  "pages/settings/legal.tsx"
+ ],
+ "Florida": [
+  "collections"
+ ],
+ "Fly to coordinates": [
+  "pages/maps.tsx"
+ ],
+ "Food for Preppers": [
+  "collections",
+  "collections"
+ ],
+ "For": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "For a few seconds during the reset, the Qdrant collection does not exist — any chat-with-RAG queries in that window may return a \"collection not found\" error. Avoid using chat until the rebuild has begun.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "For large ZIM archives this can take a long time, especially on CPU-only systems.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Force Refresh Collections": [
+  "pages/settings/maps.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Force Reinstall": [
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Force Reinstall {0}": [
+  "pages/supply-depot.tsx"
+ ],
+ "Force Reinstall?": [
+  "pages/settings/apps.tsx"
+ ],
+ "Form": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Form (how you take it)": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Found {0} new {1}. Library now has {2}.": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Full Benchmark ID": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Full benchmark requires {0} to be installed. Install it to measure your complete NOMAD capability and share results with the community.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "GFX version override": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "GPU Not Accessible to {0}": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "GPU compute": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Gardening Q&A": [
+  "collections"
+ ],
+ "Gardening knowledge and cooking expertise from community Q&A. Includes Essential.": [
+  "collections"
+ ],
+ "Georgia": [
+  "collections"
+ ],
+ "Git Documentation": [
+  "collections"
+ ],
+ "Git version control reference": [
+  "collections"
+ ],
+ "Give your AI assistant a custom name that will be used in the chat interface and other areas of the application.": [
+  "pages/settings/models.tsx"
+ ],
+ "Global Map Coverage Available": [
+  "pages/settings/maps.tsx"
+ ],
+ "Global Map Installed": [
+  "pages/settings/maps.tsx"
+ ],
+ "Global map download has been queued. This is a large file (~125 GB) and may take a while.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Go to Apps to install": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Go to Drug Reference": [
+  "pages/conditions/show.tsx"
+ ],
+ "Go to Drug Reference to download data": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Go to Home": [
+  "pages/easy-setup/complete.tsx"
+ ],
+ "Graphics": [
+  "pages/settings/system.tsx"
+ ],
+ "Green": [
+  "hooks/useMapMarkers.ts"
+ ],
+ "Grow and prepare your own food - gardening, cooking techniques, and food preservation.": [
+  "collections"
+ ],
+ "HTML Documentation": [
+  "collections"
+ ],
+ "Hardware Information": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Hawaii": [
+  "collections"
+ ],
+ "Heads up": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Hello from About!": [
+  "pages/about.tsx"
+ ],
+ "Herb": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx"
+ ],
+ "Hide": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Hide Uploader": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Hide all": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Hide coordinates": [
+  "pages/maps.tsx"
+ ],
+ "Hide pin": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Home": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Home improvement expertise with thousands of Q&A threads. Includes Essential.": [
+  "collections"
+ ],
+ "Home inventory and asset management — track everything you own": [
+  "service_seeder.ts"
+ ],
+ "Homebox": [
+  "service_seeder.ts"
+ ],
+ "Host path (absolute)": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Host port (8600+)": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Host ports should be in the 8600+ range. Custom apps get ports starting at": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Hostname": [
+  "pages/settings/system.tsx"
+ ],
+ "How adventurous the assistant is when picking its next word. Auto follows whatever the model's author recommended and fills in the rest, and suits most people. Focused gives shorter, steadier, more repeatable answers and is the better choice for looking things up. Creative varies its wording more, at some cost to accuracy.": [
+  "pages/settings/models.tsx"
+ ],
+ "How closely a knowledge-base passage has to match your question before it is used in an answer. Stricter settings keep unrelated passages out; too strict and genuinely useful ones get dropped too. When nothing clears the bar, the assistant answers from its own knowledge instead.": [
+  "pages/settings/models.tsx"
+ ],
+ "How fast the AI generates text. Higher is better. 30+ tokens/sec feels responsive, 60+ feels instant.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "How medicines work, dosages, side effects, and interactions": [
+  "collections"
+ ],
+ "How much conversation and knowledge-base context each reply can consider. Auto sizes this per model from its trained limit and your available memory. Choosing a value sets an upper limit — it can lower the window to save memory, but never raises it beyond what a model supports.": [
+  "pages/settings/models.tsx"
+ ],
+ "How quickly the AI starts responding after you send a message. Lower is better. Under 500ms feels instant.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "How this differs from Re-embed All": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "How to migrate content from Gen 1": [
+  "pages/supply-depot.tsx"
+ ],
+ "How to migrate content to Gen 2": [
+  "pages/supply-depot.tsx"
+ ],
+ "How:": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx"
+ ],
+ "Hundred Rabbits": [
+  "collections"
+ ],
+ "I understand — continue": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "I understand — install anyway": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "IT Tools": [
+  "service_seeder.ts"
+ ],
+ "Icon": [
+  "components/CustomAppModal.tsx",
+  "components/LinkTileModal.tsx"
+ ],
+ "Icon preview": [
+  "components/CustomAppModal.tsx"
+ ],
+ "IconBrandDocker": [
+  "components/CustomAppModal.tsx"
+ ],
+ "IconCheck": [
+  "components/AppUrlModal.tsx",
+  "components/LinkTileModal.tsx"
+ ],
+ "IconDownload": [
+  "components/CountryPickerModal.tsx",
+  "components/CreatorPacksSection.tsx",
+  "components/DownloadURLModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "IconPlayerPlay": [
+  "pages/supply-depot.tsx"
+ ],
+ "IconPlayerStop": [
+  "pages/supply-depot.tsx"
+ ],
+ "IconRefresh": [
+  "components/ServiceLogsModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "IconTrash": [
+  "components/CreatorPacksSection.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Idaho": [
+  "collections"
+ ],
+ "Identifying Hardware": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "If a job for this file is already running, the re-embed will be refused — wait for it to finish first.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "If embed jobs are already in progress, this action will be refused — wait for the queue to drain first.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "If you are connected to an OpenAI API host (e.g. LM Studio), please download models directly in that application.": [
+  "pages/settings/models.tsx"
+ ],
+ "If you'd rather review per-item before indexing, cancel here and switch your Auto-index setting to": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "Illinois": [
+  "collections"
+ ],
+ "Illustrated guides to knots, lashings, ladders, and sutures": [
+  "collections"
+ ],
+ "Images require a user message.": [
+  "ollama_controller.ts"
+ ],
+ "Imperial": [
+  "components/maps/ScaleUnitSelector.tsx"
+ ],
+ "In a medical emergency, call emergency services immediately if available.": [
+  "pages/settings/legal.tsx"
+ ],
+ "In an emergency, or if symptoms are severe or worsening,": [
+  "components/conditions/RemedySafetyNote.tsx",
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ "In an emergency, or if symptoms are severe, worsening, or you’re unsure,": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "In progress…": [
+  "pages/supply-depot.tsx"
+ ],
+ "Index": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Index existing content": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "Index your existing file for {0}?": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "Index your {0} existing files for {1}?": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "Indexed": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Indexed content typically uses 5–10× the original file size on disk. Changes apply to new content added after this setting changes.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Indexing this batch for the AI Assistant will use approximately": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "Indiana": [
+  "collections"
+ ],
+ "Indications & Usage": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Information Library": [
+  "pages/easy-setup/index.tsx",
+  "service_seeder.ts"
+ ],
+ "Information Library Integration": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Informational only — not medical advice.": [
+  "components/conditions/RemedySafetyNote.tsx"
+ ],
+ "Informational reference only — not medical advice.": [
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ "Ingest into search": [
+  "components/drug-reference/IngestStatus.tsx",
+  "pages/drug-reference/index.tsx"
+ ],
+ "Ingest policy": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Input Type": [
+  "pages/settings/models.tsx"
+ ],
+ "Install": [
+  "components/CreatorPackCard.tsx",
+  "components/CustomAppModal.tsx",
+  "pages/settings/apps.tsx",
+  "pages/settings/models.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Install Creator Pack": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Install Service?": [
+  "pages/settings/apps.tsx"
+ ],
+ "Install branded video collections from creators. Packs download in the background and play offline through Kiwix.": [
+  "pages/settings/creator-packs.tsx"
+ ],
+ "Install it": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Install pack": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Installation Activity": [
+  "components/InstallActivityFeed.tsx"
+ ],
+ "Installation Directory:": [
+  "pages/settings/legal.tsx"
+ ],
+ "Installed": [
+  "components/CountryPickerModal.tsx",
+  "components/CreatorPackCard.tsx",
+  "components/WikipediaSelector.tsx",
+  "pages/easy-setup/index.tsx",
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Installed Models": [
+  "pages/settings/models.tsx"
+ ],
+ "Installing": [
+  "pages/supply-depot.tsx"
+ ],
+ "Interact with your installed language models directly in the Command Center.": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Interactive learning platform with video courses and exercises": [
+  "pages/easy-setup/index.tsx",
+  "service_seeder.ts"
+ ],
+ "Interactive programming tutorials - JavaScript, algorithms, and data structures": [
+  "collections"
+ ],
+ "Internet Status Test URL": [
+  "pages/settings/advanced.tsx"
+ ],
+ "Invalid URL.": [
+  "ollama_controller.ts"
+ ],
+ "Invalid builder tag format. Expected: Word-Word-0000": [
+  "benchmark_controller.ts"
+ ],
+ "Invalid filename": [
+  "zim_controller.ts"
+ ],
+ "Iowa": [
+  "collections"
+ ],
+ "Issued:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "It is": [
+  "components/drug-reference/DrugDisclaimerModal.tsx",
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "It looks like you're not connected to the internet. Installing apps and downloading content will require an internet connection.": [
+  "pages/easy-setup/complete.tsx"
+ ],
+ "It's not recommended to upgrade to a new major version (e.g. 1.8.2 → 2.0.0) unless you have verified compatibility with your current configuration. Always review the release notes and test in a staging environment if possible.": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Items:": [
+  "components/CuratedCollectionCard.tsx"
+ ],
+ "JavaScript Documentation": [
+  "collections"
+ ],
+ "Jellyfin": [
+  "service_seeder.ts"
+ ],
+ "Job not found for this file": [
+  "rag_controller.ts"
+ ],
+ "Join the Discord community": [
+  "pages/settings/support.tsx"
+ ],
+ "Kansas": [
+  "collections"
+ ],
+ "Keep": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Keep Downloading": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Keep Jobs": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Keep your Project NOMAD instance up to date with the latest features and improvements.": [
+  "pages/settings/update.tsx"
+ ],
+ "Kentucky": [
+  "collections"
+ ],
+ "Kernel Version": [
+  "pages/settings/system.tsx"
+ ],
+ "Kiwix": [
+  "pages/settings/legal.tsx"
+ ],
+ "Kiwix library rescanned": [
+  "zim_controller.ts"
+ ],
+ "Knowledge Base": [
+  "components/chat/ChatSidebar.tsx",
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Knowledge Base Integration": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Knowledge Base Relevance": [
+  "pages/settings/models.tsx"
+ ],
+ "Knowledge Base Retrieval": [
+  "pages/settings/models.tsx"
+ ],
+ "Knowledge Base search results may be incomplete until every file finishes re-embedding.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Knowledge Base search will be empty until embedding finishes (potentially hours on CPU-only systems).": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Knowledge Base unavailable:": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Knowledge Base:": [
+  "components/chat/index.tsx"
+ ],
+ "Kolibri": [
+  "pages/settings/legal.tsx"
+ ],
+ "Label date:": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Language:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Last Updated": [
+  "pages/settings/models.tsx"
+ ],
+ "Last check:": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Last checked:": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Last error:": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Last refreshed:": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Last run:": [
+  "components/updates/AppAutoUpdateSection.tsx",
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Latest": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Latest Version": [
+  "pages/settings/update.tsx"
+ ],
+ "Learn to code with interactive tutorials and core programming documentation.": [
+  "collections"
+ ],
+ "Learning Self-Reliance: Homesteading": [
+  "collections"
+ ],
+ "Legacy Score": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Legacy scale:": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Legal Notices": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/legal.tsx"
+ ],
+ "Legal Notices | Project NOMAD": [
+  "pages/settings/legal.tsx"
+ ],
+ "Library Name": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Library is up to date ({0} {1}).": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "LibrePathology": [
+  "collections"
+ ],
+ "LibreTexts Biology": [
+  "collections"
+ ],
+ "LibreTexts Business": [
+  "collections"
+ ],
+ "LibreTexts Chemistry": [
+  "collections"
+ ],
+ "LibreTexts Engineering": [
+  "collections"
+ ],
+ "LibreTexts Geosciences": [
+  "collections"
+ ],
+ "LibreTexts Humanities": [
+  "collections"
+ ],
+ "LibreTexts Mathematics": [
+  "collections"
+ ],
+ "LibreTexts Medicine": [
+  "collections"
+ ],
+ "LibreTexts Physics": [
+  "collections"
+ ],
+ "License Agreement": [
+  "pages/settings/legal.tsx"
+ ],
+ "Licensed content — personal use, not for redistribution.": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at": [
+  "pages/settings/legal.tsx"
+ ],
+ "Lightweight Bitwarden-compatible password manager server — secure your credentials offline": [
+  "service_seeder.ts"
+ ],
+ "Link not found": [
+  "system_controller.ts"
+ ],
+ "Links stay outlined rather than filled whichever color you pick, so they are distinguishable from apps NOMAD manages.": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Linux Documentation": [
+  "collections"
+ ],
+ "Linux command reference and system administration": [
+  "collections"
+ ],
+ "Literature, philosophy, history, and social sciences": [
+  "collections"
+ ],
+ "Living room NAS": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Load More": [
+  "pages/settings/models.tsx"
+ ],
+ "Load more products": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Loading": [
+  "components/LoadingSpinner.tsx"
+ ],
+ "Loading models...": [
+  "components/chat/index.tsx"
+ ],
+ "Loading versions...": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Loading...": [
+  "components/LoadingSpinner.tsx"
+ ],
+ "Loading…": [
+  "components/ServiceStatsModal.tsx",
+  "components/chat/CollectionsManager.tsx",
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/chat/NomadMdModal.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Local AI chat that runs entirely on your hardware - no internet required": [
+  "pages/easy-setup/index.tsx",
+  "service_seeder.ts"
+ ],
+ "Local server time": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Locally-hosted PDF manipulation tool — merge, split, compress, convert, and more": [
+  "service_seeder.ts"
+ ],
+ "Location": [
+  "pages/settings/apps.tsx"
+ ],
+ "Logs": [
+  "pages/supply-depot.tsx"
+ ],
+ "Long-term food storage and survival meal preparation": [
+  "collections"
+ ],
+ "Look up a medicine by name, or start from a symptom to find over-the-counter options — all from offline FDA drug labels.": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Looking for more apps?": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Looking for something to treat a symptom instead? Try the": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Louisiana": [
+  "collections"
+ ],
+ "Lower zoom = smaller file, less detail. Zoom 15 shows individual streets; zoom 10 shows city-level detail.": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "MB/s": [
+  "components/benchmark/BenchmarkRunView.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "MDN CSS properties and selectors reference": [
+  "collections"
+ ],
+ "MDN HTML elements and attributes reference": [
+  "collections"
+ ],
+ "MDN JavaScript reference and guides": [
+  "collections"
+ ],
+ "Main TED conference talks on ideas worth spreading": [
+  "collections"
+ ],
+ "Maine": [
+  "collections"
+ ],
+ "Maker projects with Arduino and Raspberry Pi, plus more programming docs. Includes Essential.": [
+  "collections"
+ ],
+ "Manage": [
+  "pages/supply-depot.tsx"
+ ],
+ "Manage Apps": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Manage Collections": [
+  "components/chat/CollectionsManager.tsx",
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Manage Custom Libraries": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Manage Map Regions": [
+  "pages/maps.tsx"
+ ],
+ "Manage the applications that are available in your Project NOMAD instance. Nightly update checks will automatically detect when new versions of these apps are available.": [
+  "pages/settings/apps.tsx"
+ ],
+ "Manage your stored content files.": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Manage your stored map files and explore new regions!": [
+  "pages/settings/maps.tsx"
+ ],
+ "Managed by NOMAD": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Managed by environment variable": [
+  "pages/settings/advanced.tsx"
+ ],
+ "Manual": [
+  "components/KbGuardrailModal.tsx",
+  "components/TierSelectionModal.tsx"
+ ],
+ "Manual Content Updates": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Manufacturer": [
+  "pages/settings/system.tsx"
+ ],
+ "Manufacturer:": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Map": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Map Collections to Download (": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Map assets for the East North Central region, including Illinois, Indiana, Michigan, Ohio, and Wisconsin.": [
+  "collections"
+ ],
+ "Map assets for the East South Central region, including Alabama, Kentucky, Mississippi, and Tennessee.": [
+  "collections"
+ ],
+ "Map assets for the Mid-Atlantic region, including New Jersey, New York, and Pennsylvania.": [
+  "collections"
+ ],
+ "Map assets for the Mountain region, including Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming.": [
+  "collections"
+ ],
+ "Map assets for the New England region, including Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont.": [
+  "collections"
+ ],
+ "Map assets for the Pacific region, including Alaska, California, Hawaii, Oregon, and Washington.": [
+  "collections"
+ ],
+ "Map assets for the South Atlantic region, including Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, and West Virginia.": [
+  "collections"
+ ],
+ "Map assets for the West North Central region, including Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, and South Dakota.": [
+  "collections"
+ ],
+ "Map assets for the West South Central region, including Arkansas, Louisiana, Oklahoma, and Texas.": [
+  "collections"
+ ],
+ "Map file deleted successfully": [
+  "maps_controller.ts"
+ ],
+ "Map file with key {0} not found": [
+  "maps_controller.ts"
+ ],
+ "Maps": [
+  "pages/home.tsx",
+  "pages/maps.tsx"
+ ],
+ "Maps Manager": [
+  "layouts/SettingsLayout.tsx",
+  "pages/easy-setup/index.tsx",
+  "pages/settings/maps.tsx"
+ ],
+ "Marker deleted": [
+  "maps_controller.ts"
+ ],
+ "Marker not found": [
+  "maps_controller.ts"
+ ],
+ "Maryland": [
+  "collections"
+ ],
+ "Massachusetts": [
+  "collections"
+ ],
+ "Matches are FDA label-indication text, not medical recommendations. Do not rely on this data to make decisions regarding medical care.": [
+  "pages/conditions/show.tsx"
+ ],
+ "Max zoom level:": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Maximum": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Maybe later": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "Measure your server's performance and compare with the NOMAD community": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Measured Performance (v2)": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Media": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Media:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Medical Library": [
+  "collections"
+ ],
+ "Medical and Emergency Information Disclaimer": [
+  "pages/settings/legal.tsx"
+ ],
+ "Medical information may become outdated. Verify critical information with current professional sources when possible.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Medical references, guides, and encyclopedias for healthcare information and emergency preparedness.": [
+  "collections"
+ ],
+ "Medicine": [
+  "collections"
+ ],
+ "MedlinePlus": [
+  "collections"
+ ],
+ "Memory": [
+  "components/ServiceStatsModal.tsx",
+  "components/benchmark/ScoreReveal.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Memory (": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Memory (MB) — default 1024": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Memory Allocation": [
+  "pages/settings/system.tsx"
+ ],
+ "Memory Score": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Memory Throughput": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Memory Usage": [
+  "pages/settings/system.tsx"
+ ],
+ "MeshCore Web": [
+  "service_seeder.ts"
+ ],
+ "Meshtastic Web": [
+  "service_seeder.ts"
+ ],
+ "Metric": [
+  "components/maps/ScaleUnitSelector.tsx"
+ ],
+ "Michigan": [
+  "collections"
+ ],
+ "Migration instructions": [
+  "pages/supply-depot.tsx"
+ ],
+ "Military Medicine": [
+  "collections"
+ ],
+ "Minnesota": [
+  "collections"
+ ],
+ "Mississippi": [
+  "collections"
+ ],
+ "Missouri": [
+  "collections"
+ ],
+ "Model": [
+  "pages/settings/benchmark.tsx",
+  "pages/settings/models.tsx"
+ ],
+ "Model Size": [
+  "pages/settings/models.tsx"
+ ],
+ "Model deleted: {0}": [
+  "ollama_controller.ts"
+ ],
+ "Model deleted: {0}.": [
+  "pages/settings/models.tsx"
+ ],
+ "Model download initiated for {0}. It may take some time to complete.": [
+  "pages/settings/models.tsx"
+ ],
+ "Model downloading is only supported when using a Ollama backend.": [
+  "pages/settings/models.tsx"
+ ],
+ "Model list refreshed from remote.": [
+  "pages/settings/models.tsx"
+ ],
+ "Model:": [
+  "components/chat/index.tsx"
+ ],
+ "Models": [
+  "pages/settings/models.tsx"
+ ],
+ "Models & Settings": [
+  "components/chat/ChatSidebar.tsx"
+ ],
+ "Models are managed on the remote machine. You can add models from Settings > AI Assistant after setup, note this is only supported when using Ollama, not LM Studio and other OpenAI API software.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Montana": [
+  "collections"
+ ],
+ "More information": [
+  "components/InfoTooltip.tsx"
+ ],
+ "Motor Vehicle Maintenance Q&A": [
+  "collections"
+ ],
+ "Mountain Region": [
+  "collections"
+ ],
+ "Multipart chat requests require a JSON payload.": [
+  "ollama_controller.ts"
+ ],
+ "My App": [
+  "components/CustomAppModal.tsx"
+ ],
+ "NAS Storage": [
+  "hooks/useDiskDisplayData.ts"
+ ],
+ "NDC:": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "NHS Medicines A to Z": [
+  "collections"
+ ],
+ "NIH's consumer health encyclopedia - diseases, conditions, drugs, supplements": [
+  "collections"
+ ],
+ "NOMAD Score": [
+  "lib/benchmarkScore.ts",
+  "pages/settings/benchmark.tsx"
+ ],
+ "NOMAD Score v2 is an uncapped index versus the NOMAD Reference Build, which scores exactly 1000. Higher is better, and there is no ceiling.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "NOMAD does not collect, transmit, or store any usage data, analytics, or telemetry.": [
+  "pages/settings/legal.tsx"
+ ],
+ "NOMAD includes built-in Optical Character Recognition (OCR) capabilities, allowing it to extract text from image-based documents such as scanned PDFs or photos. This means that even if your documents are not in a standard text format, NOMAD can still process and embed their content for AI access.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "NOMAD operates without user accounts or authentication by default.": [
+  "pages/settings/legal.tsx"
+ ],
+ "NOMAD periodically checks whether it can reach the internet. By default it probes Cloudflare's utility endpoint with a few fallbacks. Set a custom endpoint below if your network blocks the defaults. Leave blank to use the built-in defaults.": [
+  "pages/settings/advanced.tsx"
+ ],
+ "NOMAD will automatically discover and extract any content you save to your Information Library (if installed), making it instantly available to": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "NOMAD.md": [
+  "components/chat/ChatSidebar.tsx",
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "NOMAD.md saved successfully": [
+  "nomad_md_controller.ts"
+ ],
+ "NOMAD.md saved. It applies to new messages.": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "Name": [
+  "components/LinkTileModal.tsx",
+  "pages/settings/apps.tsx",
+  "pages/settings/maps.tsx",
+  "pages/settings/models.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Name this location": [
+  "components/maps/MapMarkerFormPopup.tsx"
+ ],
+ "Natural remedies": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx"
+ ],
+ "Nautical": [
+  "components/maps/ScaleUnitSelector.tsx"
+ ],
+ "Nebraska": [
+  "collections"
+ ],
+ "Need Help With Your Home Network?": [
+  "pages/settings/support.tsx"
+ ],
+ "Need some inspiration? Enable chat suggestions in settings to get started with example prompts.": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Network": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Network Optional:": [
+  "pages/settings/legal.tsx"
+ ],
+ "Networking": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Nevada": [
+  "collections"
+ ],
+ "Never disregard professional medical advice or delay seeking it because of something you read in offline content.": [
+  "pages/settings/legal.tsx"
+ ],
+ "New Chat": [
+  "components/chat/ChatSidebar.tsx",
+  "components/chat/index.tsx"
+ ],
+ "New England": [
+  "collections"
+ ],
+ "New Mexico": [
+  "collections"
+ ],
+ "New content will": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "New content will be": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "New content will be auto-indexed for AI.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "New content will wait for you to opt in.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "New_Hampshire": [
+  "collections"
+ ],
+ "New_Jersey": [
+  "collections"
+ ],
+ "New_York": [
+  "collections"
+ ],
+ "Next": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Night Ops": [
+  "components/ThemeToggle.tsx"
+ ],
+ "No": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "No AI Benchmark Data": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "No Accounts Required:": [
+  "pages/settings/legal.tsx"
+ ],
+ "No Benchmark Results": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "No FDA drug data yet": [
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "No Internet Connection": [
+  "pages/easy-setup/complete.tsx",
+  "pages/easy-setup/index.tsx"
+ ],
+ "No Selections Made": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "No Update Available": [
+  "pages/settings/update.tsx"
+ ],
+ "No Wikipedia": [
+  "collections"
+ ],
+ "No active downloads": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "No active model downloads": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "No additional OTC options found for": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "No apps are opted in yet. Enable auto-update on individual apps from the Supply Depot.": [
+  "components/updates/AppAutoUpdateSection.tsx"
+ ],
+ "No apps match your filter.": [
+  "pages/supply-depot.tsx"
+ ],
+ "No collections yet. Assign a file to a collection from the Knowledge Base table to create one.": [
+  "components/chat/CollectionsManager.tsx"
+ ],
+ "No content-based capabilities selected. You can skip this step or go back to select capabilities that require content.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "No countries match \"": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "No creator packs available right now.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "No creator packs available.": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "No curated collections available.": [
+  "pages/settings/maps.tsx"
+ ],
+ "No curated content categories available.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "No data received for": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "No directories or ZIM files found at this location.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "No download": [
+  "components/WikipediaSelector.tsx",
+  "pages/easy-setup/index.tsx"
+ ],
+ "No drug data yet": [
+  "pages/conditions/show.tsx"
+ ],
+ "No eligible update — system is current or the latest release is a major version / still in cool-off.": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "No environment variables provided.": [
+  "components/CustomAppModal.tsx"
+ ],
+ "No file received": [
+  "zim_controller.ts"
+ ],
+ "No file uploaded": [
+  "rag_controller.ts"
+ ],
+ "No files are currently being processed": [
+  "components/ActiveEmbedJobs.tsx"
+ ],
+ "No internet connection. You may not be able to download files.": [
+  "pages/settings/zim/remote-explorer.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "No labeled interaction text on this label.": [
+  "components/drug-reference/InteractionColumn.tsx"
+ ],
+ "No logs available yet...": [
+  "pages/settings/update.tsx"
+ ],
+ "No map collections available at this time.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "No matches": [
+  "components/chat/CollectionCombobox.tsx"
+ ],
+ "No medicines match “": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "No models installed": [
+  "components/chat/index.tsx"
+ ],
+ "No models installed. Browse the model catalog below to get started.": [
+  "pages/settings/models.tsx"
+ ],
+ "No other versions available": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "No over-the-counter drugs match “": [
+  "pages/conditions/show.tsx"
+ ],
+ "No pins match your search.": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "No port mappings — the app won't be accessible from a browser.": [
+  "components/CustomAppModal.tsx"
+ ],
+ "No previous chats": [
+  "components/chat/ChatSidebar.tsx"
+ ],
+ "No recommended AI models available at this time.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "No results for \"": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "No scheme? We'll default to": [
+  "components/AppUrlModal.tsx"
+ ],
+ "No single option treats all": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "No stats available.": [
+  "components/ServiceStatsModal.tsx"
+ ],
+ "No storage devices detected": [
+  "pages/settings/system.tsx"
+ ],
+ "No volumes — data won't persist across restarts.": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Node.js API reference and guides": [
+  "collections"
+ ],
+ "Node.js Documentation": [
+  "collections"
+ ],
+ "Normal": [
+  "pages/settings/system.tsx"
+ ],
+ "North_Carolina": [
+  "collections"
+ ],
+ "North_Dakota": [
+  "collections"
+ ],
+ "Not Indexed": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Not allowed": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Not set": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Not sure where to start? Use the setup wizard to quickly configure your NOMAD!": [
+  "pages/home.tsx"
+ ],
+ "Note:": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Notes": [
+  "components/CustomAppModal.tsx",
+  "service_seeder.ts"
+ ],
+ "Notes, data tools, and the full catalog of add-on apps are available any time in Supply Depot.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Official US disaster planning guidance - weather, fire, evacuation plans, and emergency kits": [
+  "collections"
+ ],
+ "Official disaster planning, field skills, and radio communications, plus bug-out and urban survival techniques. Includes everything in Essential.": [
+  "collections"
+ ],
+ "Offline FDA drug labels - search by drug name": [
+  "collections"
+ ],
+ "Offline FDA drug labels. Search by drug name or by symptom": [
+  "pages/home.tsx"
+ ],
+ "Offline access to Wikipedia, medical references, how-to guides, and encyclopedias": [
+  "pages/easy-setup/index.tsx",
+  "service_seeder.ts"
+ ],
+ "Ohio": [
+  "collections"
+ ],
+ "Oklahoma": [
+  "collections"
+ ],
+ "Ollama": [
+  "pages/settings/benchmark.tsx",
+  "pages/settings/legal.tsx"
+ ],
+ "Ollama service record not found.": [
+  "ollama_controller.ts"
+ ],
+ "On systems without GPU acceleration, expect sustained high CPU usage for the duration.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Only": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Only .zim files are accepted": [
+  "zim_controller.ts"
+ ],
+ "Only custom apps can be deleted.": [
+  "system_controller.ts"
+ ],
+ "Only custom apps can be updated this way.": [
+  "system_controller.ts"
+ ],
+ "Only need a specific country, or want the whole world? Individual countries and a full global map can be installed any time from the": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Only the first {0} selected image(s) were attached.": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Open": [
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Open Full Chat": [
+  "components/chat/ChatSidebar.tsx"
+ ],
+ "Open Supply Depot": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Open a GitHub Issue": [
+  "components/DebugInfoModal.tsx"
+ ],
+ "Open chat": [
+  "components/chat/ChatButton.tsx"
+ ],
+ "Open conversation sidebar": [
+  "components/chat/index.tsx"
+ ],
+ "Open resource download page": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Open textbooks with full illustrations and diagrams": [
+  "collections"
+ ],
+ "Open-content textbooks covering math, science, computing, and more": [
+  "collections"
+ ],
+ "Open-source math textbooks from algebra to calculus": [
+  "collections"
+ ],
+ "Open-source media server — stream your video, music, and photo libraries": [
+  "service_seeder.ts"
+ ],
+ "Open-source medical textbooks and educational content": [
+  "collections"
+ ],
+ "Opens as:": [
+  "components/AppUrlModal.tsx",
+  "components/LinkTileModal.tsx"
+ ],
+ "Operating System": [
+  "pages/settings/system.tsx"
+ ],
+ "Orange": [
+  "hooks/useMapMarkers.ts"
+ ],
+ "Oregon": [
+  "collections"
+ ],
+ "Other Ways to Help": [
+  "pages/settings/support.tsx"
+ ],
+ "Over-the-counter options": [
+  "pages/conditions/show.tsx"
+ ],
+ "Overall": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Pacific Region": [
+  "collections"
+ ],
+ "Pack download is already in progress": [
+  "creator_packs_controller.ts"
+ ],
+ "Pack download started": [
+  "creator_packs_controller.ts"
+ ],
+ "Pack is already installed": [
+  "creator_packs_controller.ts"
+ ],
+ "Pack uninstalled": [
+  "creator_packs_controller.ts"
+ ],
+ "Page not found": [
+  "pages/errors/not_found.tsx"
+ ],
+ "Parameters": [
+  "pages/settings/models.tsx"
+ ],
+ "Partial": [
+  "components/benchmark/ScoreReveal.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Partial Benchmark": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Pathology reference for disease identification": [
+  "collections"
+ ],
+ "Pennsylvania": [
+  "collections"
+ ],
+ "Per window. 0 = unlimited": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Photos and backups": [
+  "components/LinkTileModal.tsx"
+ ],
+ "Physical Cores": [
+  "pages/settings/system.tsx"
+ ],
+ "Physics courses and textbooks": [
+  "collections"
+ ],
+ "Pick a situation (or a few) above to see the over-the-counter drugs whose FDA labels list it.": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Pick an icon shown on the app card.": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Pick at least one country to estimate size.": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Pick one or more situations": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Pick the countries you actually need — from a single country to a whole continent — and we'll pull just those tiles from the global Protomaps archive. Much smaller than the full 125 GB global map.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Pins": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Platform": [
+  "pages/settings/system.tsx"
+ ],
+ "Popular Articles": [
+  "collections"
+ ],
+ "Port Mappings": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Port conflict: {0}.": [
+  "system_controller.ts"
+ ],
+ "Port {0} already in use": [
+  "pages/supply-depot.tsx"
+ ],
+ "Port {0} is already in use": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Post Disaster Resource Library": [
+  "collections"
+ ],
+ "Powered by": [
+  "pages/easy-setup/index.tsx",
+  "pages/home.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Practical guides to food production, water and sanitation, construction, and village-scale manufacturing without industrial supply chains": [
+  "collections"
+ ],
+ "Prescription": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Privacy Statement": [
+  "pages/settings/legal.tsx"
+ ],
+ "Proceed anyway": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "Processing Queue": [
+  "components/ActiveEmbedJobs.tsx",
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Processor": [
+  "pages/settings/benchmark.tsx",
+  "pages/settings/system.tsx"
+ ],
+ "Productivity": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Professional-level medical references and textbooks. Includes everything in Standard.": [
+  "collections"
+ ],
+ "Programming tutorials, electronics projects, and technical documentation for makers and developers.": [
+  "collections"
+ ],
+ "Progress": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Project Gutenberg: Agriculture": [
+  "collections"
+ ],
+ "Project Gutenberg: Military Science": [
+  "collections"
+ ],
+ "Project NOMAD Logo": [
+  "components/StyledSidebar.tsx",
+  "components/chat/ChatSidebar.tsx",
+  "layouts/AppLayout.tsx"
+ ],
+ "Project NOMAD is 100% free and open source — no subscriptions, no paywalls, no catch. If you'd like to help keep the project going, here are a few ways to show your support.": [
+  "pages/settings/support.tsx"
+ ],
+ "Project NOMAD is designed with privacy as a core principle:": [
+  "pages/settings/legal.tsx"
+ ],
+ "Project NOMAD provides tools to download and access content from third-party sources including Wikipedia, Wikibooks, medical references, educational platforms, and other publicly available resources.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Project NOMAD™ Command Center v": [
+  "components/Footer.tsx",
+  "components/StyledSidebar.tsx"
+ ],
+ "Project NOMAD™ integrates the following open source projects. We are grateful to their developers and communities:": [
+  "pages/settings/legal.tsx"
+ ],
+ "Provide a slug or q query parameter": [
+  "conditions_controller.ts"
+ ],
+ "Provide either slug or q, not both": [
+  "conditions_controller.ts"
+ ],
+ "Publisher:": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Pull Latest Images": [
+  "pages/settings/update.tsx"
+ ],
+ "Purple": [
+  "hooks/useMapMarkers.ts"
+ ],
+ "Python Documentation": [
+  "collections"
+ ],
+ "Qdrant": [
+  "pages/settings/legal.tsx"
+ ],
+ "Qdrant Vector Database": [
+  "service_seeder.ts"
+ ],
+ "Qdrant collection and rebuild from the": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Queuing…": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Quick Reference": [
+  "collections"
+ ],
+ "Quick and easy cooking guides and recipes": [
+  "collections"
+ ],
+ "Quick picks": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Quick recipes and cooking basics for everyday meal preparation.": [
+  "collections"
+ ],
+ "ROCm ships GPU kernels for a fixed list of AMD chips. Integrated Radeon GPUs outside that list run on CPU unless ROCm treats them as a supported chip, set through HSA_OVERRIDE_GFX_VERSION.": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Radeon 680M / 660M and other RDNA 2 iGPUs (gfx1031 to gfx1036): 10.3.0": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Radeon 780M / 760M (gfx1103): 11.0.0": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Randomize": [
+  "components/BuilderTagSelector.tsx"
+ ],
+ "Raspberry Pi Q&A": [
+  "collections"
+ ],
+ "Raw Scores": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Re-embed All": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Re-embed All Documents?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Re-embed every file on disk, replacing existing vectors file-by-file. Vectors for files no longer on disk are preserved. Use this if the chunker or embedding model has changed.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Re-embed this file?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "React Documentation": [
+  "collections"
+ ],
+ "React library reference and tutorials": [
+  "collections"
+ ],
+ "Read": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Read Project NOMAD manuals and guides": [
+  "pages/home.tsx"
+ ],
+ "Read the Information Library in another language. Machine translation that works offline, on CPU": [
+  "service_seeder.ts"
+ ],
+ "Ready to Start": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Ready.gov": [
+  "collections"
+ ],
+ "Real-time monitoring and diagnostics • Last updated:": [
+  "pages/settings/system.tsx"
+ ],
+ "Reasoning": [
+  "components/chat/ChatMessageBubble.tsx"
+ ],
+ "Rebuild the Kiwix library index from the files on disk. Use this after manually adding ZIM files outside of NOMAD.": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Receive release candidate (RC) versions before they are officially released. Note: RC versions may contain bugs and are not recommended for environments where stability and data integrity are critical.": [
+  "pages/settings/update.tsx"
+ ],
+ "Recipes and techniques for food preservation and long-term storage": [
+  "collections"
+ ],
+ "Recipes and techniques for preparing and preserving food": [
+  "collections"
+ ],
+ "Recommended for this GPU: {0}.": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Recreate Containers": [
+  "pages/settings/update.tsx"
+ ],
+ "Red": [
+  "hooks/useMapMarkers.ts"
+ ],
+ "Reference Build = 1000.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Refresh": [
+  "components/ServiceLogsModal.tsx"
+ ],
+ "Refresh Models": [
+  "pages/settings/models.tsx"
+ ],
+ "Reinstall": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Release notes": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Remote Connected": [
+  "components/chat/index.tsx"
+ ],
+ "Remote Connection": [
+  "pages/settings/models.tsx"
+ ],
+ "Remote Disconnected": [
+  "components/chat/index.tsx"
+ ],
+ "Remote Ollama cleared. Local Ollama container restored.": [
+  "ollama_controller.ts"
+ ],
+ "Remote Ollama configuration cleared.": [
+  "pages/settings/models.tsx"
+ ],
+ "Remote Ollama configured.": [
+  "ollama_controller.ts"
+ ],
+ "Remote Ollama selected": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Remote Ollama/OpenAI API URL": [
+  "pages/settings/models.tsx"
+ ],
+ "Remove": [
+  "components/chat/CollectionsManager.tsx",
+  "pages/home.tsx"
+ ],
+ "Remove \"": [
+  "components/chat/CollectionsManager.tsx"
+ ],
+ "Remove Wikipedia": [
+  "components/WikipediaSelector.tsx"
+ ],
+ "Remove drug {0}": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Remove from knowledge base?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Remove library": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Remove this link": [
+  "pages/home.tsx"
+ ],
+ "Remove {0} from comparison": [
+  "components/drug-reference/InteractionColumn.tsx"
+ ],
+ "Rename": [
+  "components/chat/CollectionsManager.tsx"
+ ],
+ "Rename or remove collections. Removing a collection doesn't delete any files — they're simply moved back to Uncategorized so you can re-sort them.": [
+  "components/chat/CollectionsManager.tsx"
+ ],
+ "Report": [
+  "components/benchmark/ScoreReveal.tsx"
+ ],
+ "Report bugs and suggest features": [
+  "pages/settings/support.tsx"
+ ],
+ "Repository ID": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Rescan Library": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Reset & Rebuild": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Reset & Rebuild Knowledge Base?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Resetting…": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Resource Limits (optional)": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Resource Usage": [
+  "pages/settings/system.tsx"
+ ],
+ "Resource warning": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Response Style": [
+  "pages/settings/models.tsx"
+ ],
+ "Restart": [
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Restart Service?": [
+  "pages/settings/apps.tsx"
+ ],
+ "Restart ingest": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Restarting…": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Results so far": [
+  "components/benchmark/ResultsSoFar.tsx"
+ ],
+ "Retry": [
+  "components/ActiveDownloads.tsx",
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Retry download": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Retrying...": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Review Your Selections": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Review your choices before starting the setup process.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Rhode_Island": [
+  "collections"
+ ],
+ "Robotics Q&A": [
+  "collections"
+ ],
+ "Rogue Support is a networking consultation service for home users. Think of it as Uber for computer networking — expert help when you need it.": [
+  "pages/settings/support.tsx"
+ ],
+ "Rogue Support — Conquer Your Home Network": [
+  "pages/settings/support.tsx"
+ ],
+ "Route:": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Run Benchmark": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Run Date": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Run Full Benchmark": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Run a Full Benchmark or AI Only benchmark to measure AI inference performance.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Run a benchmark to measure your system's CPU, memory, disk, and AI inference performance. The benchmark takes approximately 3-6 minutes to complete.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Run environment": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Run your first benchmark to see your server's performance scores.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Running": [
+  "pages/supply-depot.tsx"
+ ],
+ "Running in the Background": [
+  "pages/easy-setup/complete.tsx"
+ ],
+ "Runs in the background — you can leave this page and it keeps going. Search turns on automatically when ingest finishes.": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "Rx": [
+  "components/drug-reference/DrugResultRow.tsx",
+  "components/drug-reference/IngredientGroup.tsx",
+  "components/drug-reference/InteractionColumn.tsx",
+  "pages/drug-reference/show.tsx"
+ ],
+ "Safely stops and recreates all core containers with the new images": [
+  "pages/settings/update.tsx"
+ ],
+ "Save": [
+  "components/AppUrlModal.tsx",
+  "components/LinkTileModal.tsx",
+  "components/chat/CollectionsManager.tsx",
+  "components/chat/NomadMdModal.tsx",
+  "components/maps/MapMarkerFormPopup.tsx",
+  "pages/settings/advanced.tsx"
+ ],
+ "Save & Recreate": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Save & Test": [
+  "pages/settings/models.tsx"
+ ],
+ "Save Schedule": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Save and Reinstall": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Saved Locations": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Saving recreates the {0} container with this override. Downloaded models are preserved.": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Saving...": [
+  "components/maps/MapMarkerFormPopup.tsx"
+ ],
+ "Scan storage for new files and queue any that haven't been embedded yet. Safe to run anytime; won't touch already-embedded content.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Score": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Search a medicine by name — ibuprofen, Benadryl, loratadine…": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Search apps...": [
+  "pages/supply-depot.tsx"
+ ],
+ "Search available ZIM files...": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Search by drug": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Search for a drug to add…": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Search in:": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/chat/index.tsx"
+ ],
+ "Search language models..": [
+  "pages/settings/models.tsx"
+ ],
+ "Search pins...": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Search results that referenced this file will be incomplete until the new embedding finishes.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Search your knowledge base for relevant documents before answering. Turn this off to save memory and speed up replies when your knowledge base is small or empty. This is the same switch as the one in the chat window.": [
+  "pages/settings/models.tsx"
+ ],
+ "Searching…": [
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Security": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Select a tier based on your storage capacity and needs. Higher tiers include all content from lower tiers.": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "Select content categories for offline knowledge.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Select drugs above to compare their labeled interaction warnings.": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Select drugs to compare": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "Select map region collections to download for offline use. You can always download more regions later.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Select models to download for offline AI": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Select the capabilities you need. You can always add more later.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Select the most relevant category for this app. This helps with visual organization and filtering.": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Select your preferred Wikipedia package": [
+  "components/WikipediaSelector.tsx"
+ ],
+ "Selected": [
+  "components/CreatorPackCard.tsx",
+  "components/WikipediaSelector.tsx"
+ ],
+ "Selected (+": [
+  "components/StorageProjectionBar.tsx"
+ ],
+ "Selected:": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Server": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Server Error": [
+  "pages/errors/server_error.tsx"
+ ],
+ "Service Logs & Metrics": [
+  "layouts/SettingsLayout.tsx"
+ ],
+ "Service update check dispatched": [
+  "system_controller.ts"
+ ],
+ "Service {0} is not installed": [
+  "system_controller.ts"
+ ],
+ "Service {0} not found": [
+  "system_controller.ts"
+ ],
+ "Service {0} not found or not installed": [
+  "system_controller.ts"
+ ],
+ "Services will be briefly unavailable during the update process. This typically takes 2-5 minutes depending on your internet connection.": [
+  "pages/settings/update.tsx"
+ ],
+ "Session not found": [
+  "chats_controller.ts"
+ ],
+ "Set AMD GFX Override": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "Set Custom URL": [
+  "components/AppUrlModal.tsx"
+ ],
+ "Set custom URL": [
+  "pages/supply-depot.tsx"
+ ],
+ "Set where": [
+  "components/AppUrlModal.tsx"
+ ],
+ "Sets the default for models that can think. You can still turn thinking on or off for an individual model in the chat window.": [
+  "pages/settings/models.tsx"
+ ],
+ "Setting updated successfully": [
+  "settings_controller.ts"
+ ],
+ "Setting updated successfully.": [
+  "pages/settings/advanced.tsx",
+  "pages/settings/models.tsx",
+  "pages/settings/update.tsx"
+ ],
+ "Settings": [
+  "layouts/SettingsLayout.tsx",
+  "pages/home.tsx",
+  "pages/settings/models.tsx"
+ ],
+ "Setup wizard completed! Your selections are being processed.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Share NOMAD with someone who'd use it — word of mouth is the best marketing": [
+  "pages/settings/support.tsx"
+ ],
+ "Share anonymously (no Builder Tag shown on leaderboard)": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Share with Community": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Share your benchmark on the community leaderboard. Choose a Builder Tag to claim your spot, or share anonymously.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Shared": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Shared with Community": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Shelter, sanitation, salvage, and recovery guidance for the aftermath of a disaster": [
+  "collections"
+ ],
+ "Show": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Show all": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Show coordinates": [
+  "pages/maps.tsx"
+ ],
+ "Show pin": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Show saved locations": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Simple note-taking app with local storage": [
+  "service_seeder.ts"
+ ],
+ "Simple, practical recipes from the community": [
+  "collections"
+ ],
+ "Single-drug label information — not a cross-drug interaction checker": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Situation matches come from label text, not clinical recommendations — they can be incomplete or include products you wouldn’t expect.": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "Size": [
+  "components/updates/ContentUpdatesSection.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Size:": [
+  "components/CategoryCard.tsx",
+  "pages/easy-setup/index.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Skip Wikipedia installation": [
+  "collections"
+ ],
+ "Skipped — exceeds data cap, update manually": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "Slow": [
+  "lib/kb_job_health_display.ts"
+ ],
+ "Small, fast model used for background work like chat titles and suggestions. Leave this set to the chat model to use whichever model the chat is using. Avoid reasoning models here — they are slow at short, aesthetic tasks.": [
+  "pages/settings/models.tsx"
+ ],
+ "Some content available through NOMAD includes medical references, first aid guides, and emergency preparedness information. This content is provided for general informational purposes only.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Sorry, there was an error processing your request. Please try again.": [
+  "components/chat/index.tsx"
+ ],
+ "Sorry, there was an error starting this chat. Please try again.": [
+  "components/chat/index.tsx"
+ ],
+ "Sort": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Sort by hue": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Sort by icon": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Sort by name": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Sort by visibility": [
+  "components/maps/MarkerPanel.tsx"
+ ],
+ "Source:": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx",
+  "pages/drug-reference/show.tsx",
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Sources": [
+  "components/chat/ChatMessageBubble.tsx"
+ ],
+ "Sources: NCCIH “Herbs at a Glance” (NIH) and US-government health guidance (CDC, MedlinePlus/NLM, FDA). Public domain (US government works).": [
+  "pages/conditions/show.tsx"
+ ],
+ "South Atlantic": [
+  "collections"
+ ],
+ "South_Carolina": [
+  "collections"
+ ],
+ "South_Dakota": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for Arduino microcontroller projects": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for Raspberry Pi projects and troubleshooting": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for car and motorcycle repair": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for carpentry, joinery, and woodcraft": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for circuit design, components, and electrical engineering": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for cooking techniques, food safety, and recipes": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for growing your own food, plant care, and landscaping": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for home repairs, electrical, plumbing, and construction": [
+  "collections"
+ ],
+ "Stack Exchange Q&A for robotics projects and automation": [
+  "collections"
+ ],
+ "Stalled": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "lib/kb_job_health_display.ts"
+ ],
+ "Standard": [
+  "collections",
+  "collections",
+  "collections",
+  "collections",
+  "collections",
+  "collections"
+ ],
+ "Star the project on GitHub": [
+  "pages/settings/support.tsx"
+ ],
+ "Start": [
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Start Download": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "Start Qdrant": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Start Update": [
+  "pages/settings/update.tsx"
+ ],
+ "Start a conversation": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Start here!": [
+  "pages/home.tsx"
+ ],
+ "Started downloading \"{0} - {1}\"": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Started downloading \"{0}\"": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Started installing \"{0}\"": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Starting…": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "pages/drug-reference/index.tsx"
+ ],
+ "Stats": [
+  "pages/supply-depot.tsx"
+ ],
+ "Status:": [
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Step-by-step repair guides for electronics, appliances, and vehicles": [
+  "collections"
+ ],
+ "Stirling PDF": [
+  "service_seeder.ts"
+ ],
+ "Stock Creator Packs": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Stop": [
+  "pages/settings/apps.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Stop Use": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Stop and clear every embedding job regardless of state, including stuck or in-progress ones. Deletes the uploaded source files for those jobs.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Stop downloading": [
+  "components/ActiveModelDownloads.tsx"
+ ],
+ "Stopped": [
+  "pages/supply-depot.tsx"
+ ],
+ "Storage": [
+  "components/StorageProjectionBar.tsx"
+ ],
+ "Storage Devices": [
+  "pages/settings/system.tsx"
+ ],
+ "Storage backend": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Stored Knowledge Base Files": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Stored Map Files": [
+  "pages/settings/maps.tsx"
+ ],
+ "Stored in Docker volumes on your local system": [
+  "pages/settings/legal.tsx"
+ ],
+ "Strategies and planning for emergency evacuation": [
+  "collections"
+ ],
+ "Submission Failed": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Submit": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "Submitted to Repository": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Submitting...": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Subscribe": [
+  "pages/settings/update.tsx"
+ ],
+ "Successfully refreshed content collections.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Successfully refreshed map collections.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Successfully subscribed to release notes!": [
+  "pages/settings/update.tsx"
+ ],
+ "Suggestions:": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Summary": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Supply Depot": [
+  "layouts/SettingsLayout.tsx",
+  "pages/home.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Support on Ko-fi": [
+  "pages/settings/support.tsx"
+ ],
+ "Support the Project": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/support.tsx"
+ ],
+ "Support the Project | Project NOMAD": [
+  "pages/settings/support.tsx"
+ ],
+ "Supports images": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Survival & Preparedness": [
+  "collections"
+ ],
+ "Swap Usage": [
+  "pages/settings/system.tsx"
+ ],
+ "Swiss Army knife for data encoding, encryption, and analysis": [
+  "service_seeder.ts"
+ ],
+ "Switch & New Chat": [
+  "components/chat/index.tsx"
+ ],
+ "Switch to Day Ops": [
+  "components/ThemeToggle.tsx"
+ ],
+ "Switch to Night Ops": [
+  "components/ThemeToggle.tsx"
+ ],
+ "Switch to {0}?": [
+  "components/chat/index.tsx"
+ ],
+ "Switching to": [
+  "components/chat/index.tsx"
+ ],
+ "Sync Storage": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "System": [
+  "layouts/SettingsLayout.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "System Benchmark": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "System Details": [
+  "pages/settings/system.tsx"
+ ],
+ "System Information": [
+  "pages/settings/system.tsx"
+ ],
+ "System Only": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "System Performance": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "System Score": [
+  "lib/benchmarkScore.ts"
+ ],
+ "System Status": [
+  "pages/settings/system.tsx"
+ ],
+ "System Up to Date": [
+  "pages/settings/update.tsx"
+ ],
+ "System Update": [
+  "pages/settings/update.tsx"
+ ],
+ "System Uptime": [
+  "pages/settings/system.tsx"
+ ],
+ "System benchmark started": [
+  "benchmark_controller.ts"
+ ],
+ "System disk activity": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "System is up to date": [
+  "pages/settings/update.tsx"
+ ],
+ "System memory usage exceeds 90%. Performance degradation may occur.": [
+  "pages/settings/system.tsx"
+ ],
+ "TED Conference": [
+  "collections"
+ ],
+ "Tactical and field medicine manuals": [
+  "collections"
+ ],
+ "Tag": [
+  "pages/settings/models.tsx"
+ ],
+ "Tasks Model": [
+  "pages/settings/models.tsx"
+ ],
+ "Temperature": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Temporary Downtime": [
+  "pages/settings/update.tsx"
+ ],
+ "Tennessee": [
+  "collections"
+ ],
+ "Texas": [
+  "collections"
+ ],
+ "That app is not a link.": [
+  "system_controller.ts"
+ ],
+ "That's more than 10% of your remaining free disk space (": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "The Great Outdoors Q&A": [
+  "collections"
+ ],
+ "The INTERNET_STATUS_TEST_URL environment variable is set and takes precedence over this setting. Remove it to manage the test URL here.": [
+  "pages/settings/advanced.tsx"
+ ],
+ "The Kiwix application is not installed. Please install it to view downloaded ZIM files": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "The Kiwix application is not installed. Please install it to view downloaded content files.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "The Qdrant vector database is offline.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "The admin container is restarting. This page will reload automatically when the update is complete.": [
+  "pages/settings/update.tsx"
+ ],
+ "The base map assets have not been installed. Please download them first to enable map functionality.": [
+  "pages/settings/maps.tsx"
+ ],
+ "The complete experience with all images and media.": [
+  "collections"
+ ],
+ "The container and its associated volumes will be removed, then a fresh installation will begin.": [
+  "pages/supply-depot.tsx"
+ ],
+ "The container will be briefly stopped and restarted.": [
+  "pages/supply-depot.tsx"
+ ],
+ "The container will be stopped and removed, and the app returns to the catalog below. App data under the storage folder stays on disk, so reinstalling brings it back as it was.": [
+  "pages/supply-depot.tsx"
+ ],
+ "The container will be stopped and removed. Host volume data will remain on disk.": [
+  "pages/supply-depot.tsx"
+ ],
+ "The container will be stopped. Your data is preserved.": [
+  "pages/supply-depot.tsx"
+ ],
+ "The low-zoom world base map (~15 MB) hasn't been downloaded yet, so the map appears blank outside any regions you've downloaded. Connect this NOMAD to the internet and download it once for offline use.": [
+  "pages/settings/maps.tsx"
+ ],
+ "The multipart chat payload is not valid JSON.": [
+  "ollama_controller.ts"
+ ],
+ "The selected model \"{0}\" does not support image input.": [
+  "ollama_controller.ts"
+ ],
+ "The server may not support directory browsing, or the URL may be incorrect.": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "There was an error deleting the model: {0}. Please try again.": [
+  "pages/settings/models.tsx"
+ ],
+ "There was an error installing the model: {0}. Please try again.": [
+  "pages/settings/models.tsx"
+ ],
+ "There was an error updating the setting. Please try again.": [
+  "pages/settings/models.tsx",
+  "pages/settings/update.tsx"
+ ],
+ "These remedies have limited or mixed evidence, are not FDA-evaluated, and are not a substitute for professional care. Check with a clinician before using any of them, and before combining one with a medication you already take.": [
+  "components/conditions/RemedySafetyNote.tsx"
+ ],
+ "These results match FDA drug-label indications to a situation. They are": [
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ "Thinking": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "Thinking:": [
+  "components/chat/index.tsx"
+ ],
+ "Third-Party Software Attribution": [
+  "pages/settings/legal.tsx"
+ ],
+ "This action is destructive and cannot be undone": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "This answer hit the length limit and was cut off.": [
+  "components/chat/ChatMessageBubble.tsx"
+ ],
+ "This app is not running. Start it to see live resource usage.": [
+  "components/ServiceStatsModal.tsx"
+ ],
+ "This information is NOT a substitute for professional medical advice, diagnosis, or treatment.": [
+  "pages/settings/legal.tsx"
+ ],
+ "This is": [
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ "This is a legacy version that's no longer maintained. Install the current Education Platform from the catalog, then uninstall this one.": [
+  "pages/supply-depot.tsx"
+ ],
+ "This is non-sensitive system info you can share when reporting issues. No passwords, IPs, or API keys are included.": [
+  "components/DebugInfoModal.tsx"
+ ],
+ "This page does not exist.": [
+  "pages/errors/not_found.tsx"
+ ],
+ "This page will automatically reload when the update is complete": [
+  "pages/settings/update.tsx"
+ ],
+ "This removes the downloaded videos (": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "This service cannot be configured.": [
+  "system_controller.ts"
+ ],
+ "This service cannot be edited.": [
+  "system_controller.ts"
+ ],
+ "This shows each drug's own FDA-labeled interaction warnings, individually.": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "This stops": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "This tool shows general health information from official": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "This will": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "This will delete all app data and cannot be undone.": [
+  "pages/supply-depot.tsx"
+ ],
+ "This will delete the existing embeddings for": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "This will download and start": [
+  "pages/supply-depot.tsx"
+ ],
+ "This will download the full Protomaps global map (": [
+  "pages/settings/maps.tsx"
+ ],
+ "This will permanently remove this custom app.": [
+  "pages/supply-depot.tsx"
+ ],
+ "This will re-process every document currently in your knowledge base — about": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "This will recreate the": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "This will remove the app from this device.": [
+  "pages/supply-depot.tsx"
+ ],
+ "This will scan the NOMAD's storage directories for any new files and queue them for processing. This is useful if you've manually added files to the storage or want to ensure everything is up to date. This may cause a temporary increase in resource usage if new files are found and being processed. Are you sure you want to proceed?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "This will start the container.": [
+  "pages/supply-depot.tsx"
+ ],
+ "This {0} benchmark cannot be shared with the community. Run a Full Benchmark with {1} installed to share your results.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Thought for {0}s": [
+  "components/chat/ChatMessageBubble.tsx"
+ ],
+ "Threads": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Time to First Token": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Tip: this file is also stored on disk at": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "Title": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Tokens per Second": [
+  "components/benchmark/BenchmarkRunView.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Tool": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Top 100,000 articles with minimal images. Great for quick lookups.": [
+  "collections"
+ ],
+ "Top articles without images. Good balance of content and size.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Alabama": [
+  "collections"
+ ],
+ "Topographic maps for the state of Alaska.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Arizona.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Arkansas": [
+  "collections"
+ ],
+ "Topographic maps for the state of California.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Colorado.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Connecticut": [
+  "collections"
+ ],
+ "Topographic maps for the state of Delaware": [
+  "collections"
+ ],
+ "Topographic maps for the state of Florida": [
+  "collections"
+ ],
+ "Topographic maps for the state of Georgia": [
+  "collections"
+ ],
+ "Topographic maps for the state of Hawaii.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Idaho.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Illinois": [
+  "collections"
+ ],
+ "Topographic maps for the state of Indiana": [
+  "collections"
+ ],
+ "Topographic maps for the state of Iowa": [
+  "collections"
+ ],
+ "Topographic maps for the state of Kansas": [
+  "collections"
+ ],
+ "Topographic maps for the state of Kentucky": [
+  "collections"
+ ],
+ "Topographic maps for the state of Louisiana": [
+  "collections"
+ ],
+ "Topographic maps for the state of Maine": [
+  "collections"
+ ],
+ "Topographic maps for the state of Maryland": [
+  "collections"
+ ],
+ "Topographic maps for the state of Massachusetts": [
+  "collections"
+ ],
+ "Topographic maps for the state of Michigan": [
+  "collections"
+ ],
+ "Topographic maps for the state of Minnesota": [
+  "collections"
+ ],
+ "Topographic maps for the state of Mississippi": [
+  "collections"
+ ],
+ "Topographic maps for the state of Missouri": [
+  "collections"
+ ],
+ "Topographic maps for the state of Montana.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Nebraska": [
+  "collections"
+ ],
+ "Topographic maps for the state of Nevada.": [
+  "collections"
+ ],
+ "Topographic maps for the state of New Mexico.": [
+  "collections"
+ ],
+ "Topographic maps for the state of New_Hampshire": [
+  "collections"
+ ],
+ "Topographic maps for the state of New_Jersey": [
+  "collections"
+ ],
+ "Topographic maps for the state of New_York": [
+  "collections"
+ ],
+ "Topographic maps for the state of North_Carolina": [
+  "collections"
+ ],
+ "Topographic maps for the state of North_Dakota": [
+  "collections"
+ ],
+ "Topographic maps for the state of Ohio": [
+  "collections"
+ ],
+ "Topographic maps for the state of Oklahoma": [
+  "collections"
+ ],
+ "Topographic maps for the state of Oregon.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Pennsylvania": [
+  "collections"
+ ],
+ "Topographic maps for the state of Rhode_Island": [
+  "collections"
+ ],
+ "Topographic maps for the state of South_Carolina": [
+  "collections"
+ ],
+ "Topographic maps for the state of South_Dakota": [
+  "collections"
+ ],
+ "Topographic maps for the state of Tennessee": [
+  "collections"
+ ],
+ "Topographic maps for the state of Texas": [
+  "collections"
+ ],
+ "Topographic maps for the state of Utah.": [
+  "collections"
+ ],
+ "Topographic maps for the state of Vermont": [
+  "collections"
+ ],
+ "Topographic maps for the state of Virginia": [
+  "collections"
+ ],
+ "Topographic maps for the state of Washington.": [
+  "collections"
+ ],
+ "Topographic maps for the state of West_Virginia": [
+  "collections"
+ ],
+ "Topographic maps for the state of Wisconsin": [
+  "collections"
+ ],
+ "Topographic maps for the state of Wyoming.": [
+  "collections"
+ ],
+ "Total RAM": [
+  "pages/settings/system.tsx"
+ ],
+ "Translated Library": [
+  "service_seeder.ts"
+ ],
+ "Treats all": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Turning off AI will discard your AI model picks, indexing policy, and remote Ollama configuration. Continue?": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Tutorials, courses, and learning materials for all levels": [
+  "collections"
+ ],
+ "Type": [
+  "components/chat/KnowledgeBaseModal.tsx",
+  "components/updates/ContentUpdatesSection.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Type RESET exactly (uppercase, no spaces) to enable the confirm button.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Type a medicine name above to search": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "Type your message to {0}... (Shift+Enter for new line)": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "U.S. Food & Drug Administration drug labeling, via": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx",
+  "pages/drug-reference/show.tsx"
+ ],
+ "Uncategorized": [
+  "components/chat/CollectionCombobox.tsx",
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Uninstall": [
+  "pages/supply-depot.tsx"
+ ],
+ "Uninstall Creator Pack": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Uninstall pack": [
+  "components/CreatorPackCard.tsx",
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Unknown": [
+  "pages/drug-reference/interactions.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Unknown Drug": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Unknown icon.": [
+  "system_controller.ts"
+ ],
+ "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Update": [
+  "components/UpdateServiceModal.tsx",
+  "components/updates/ContentUpdatesSection.tsx",
+  "pages/settings/apps.tsx"
+ ],
+ "Update (pull latest)": [
+  "pages/supply-depot.tsx"
+ ],
+ "Update All (": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Update Available": [
+  "pages/settings/update.tsx"
+ ],
+ "Update Check Issue": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Update Failed": [
+  "pages/settings/update.tsx"
+ ],
+ "Update Logs": [
+  "pages/settings/update.tsx"
+ ],
+ "Update Service": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Update available": [
+  "components/CreatorPackCard.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Update available: {0}": [
+  "pages/settings/update.tsx"
+ ],
+ "Update pack": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "Update sidecar is not available. Ensure the updater container is running.": [
+  "system_controller.ts"
+ ],
+ "Update started for {0}": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "Update to {0}": [
+  "pages/supply-depot.tsx"
+ ],
+ "Update window:": [
+  "components/updates/AppAutoUpdateSection.tsx",
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Updates every 2 seconds.": [
+  "components/ServiceStatsModal.tsx"
+ ],
+ "Updating...": [
+  "pages/settings/apps.tsx"
+ ],
+ "Upload": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Upload ZIM File": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Upload a ZIM file from your browser. Files up to 20 GB are supported. For best results upload from the same machine or over a stable LAN connection. Larger files should be copied directly to the storage volume.": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Upload complete. Library is up to date.": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Upload complete. {0} new {1} added to the library.": [
+  "pages/settings/zim/index.tsx"
+ ],
+ "Upload failed": [
+  "zim_controller.ts"
+ ],
+ "Urban Prepper": [
+  "collections"
+ ],
+ "Use remote Ollama instance": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "Use the chat model": [
+  "pages/settings/models.tsx"
+ ],
+ "Use thinking automatically when a model supports it": [
+  "pages/settings/models.tsx"
+ ],
+ "Use this when the embedding model or chunking logic has changed, or when you suspect stored vectors are stale. Files on disk are": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Used RAM": [
+  "pages/settings/system.tsx"
+ ],
+ "Users are responsible for evaluating the appropriateness and accuracy of any content they download and use.": [
+  "pages/settings/legal.tsx"
+ ],
+ "Utah": [
+  "collections"
+ ],
+ "Utility": [
+  "components/CustomAppModal.tsx",
+  "pages/supply-depot.tsx"
+ ],
+ "Utilization": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Vaultwarden": [
+  "service_seeder.ts"
+ ],
+ "Vector database for storing and searching embeddings": [
+  "service_seeder.ts"
+ ],
+ "Vermont": [
+  "collections"
+ ],
+ "Version": [
+  "components/updates/ContentUpdatesSection.tsx",
+  "pages/settings/apps.tsx"
+ ],
+ "Very High Memory Usage Detected": [
+  "pages/settings/system.tsx"
+ ],
+ "Video guides for winter survival and cold weather emergencies": [
+  "collections"
+ ],
+ "View": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "View Update Logs": [
+  "pages/settings/update.tsx"
+ ],
+ "View each drug's FDA-labeled interaction warnings side by side. Select up to": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "View license": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "View offline maps": [
+  "pages/home.tsx"
+ ],
+ "View release notes": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "View the leaderboard →": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Virginia": [
+  "collections"
+ ],
+ "Virtual whiteboard for sketching hand-drawn-style diagrams — works fully offline": [
+  "service_seeder.ts"
+ ],
+ "Virtualization": [
+  "pages/settings/system.tsx"
+ ],
+ "Visit Rogue.Support": [
+  "pages/settings/support.tsx"
+ ],
+ "Volume Mounts": [
+  "components/CustomAppModal.tsx"
+ ],
+ "WIPE ALL DATA": [
+  "pages/settings/apps.tsx"
+ ],
+ "Waiting": [
+  "lib/kb_job_health_display.ts"
+ ],
+ "Waiting for first token...": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Waiting...": [
+  "components/ActiveDownloads.tsx"
+ ],
+ "Want to stay updated with the latest from Project NOMAD? Subscribe to receive release notes directly to your inbox. Unsubscribe anytime.": [
+  "pages/settings/update.tsx"
+ ],
+ "Warning - Usage High": [
+  "pages/settings/system.tsx"
+ ],
+ "Warnings": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "Washington": [
+  "collections"
+ ],
+ "Water Treatment Library": [
+  "collections"
+ ],
+ "Water, food, and knot references plus core survival videos. Start here for emergency basics.": [
+  "collections"
+ ],
+ "We care about your privacy. Project NOMAD will never share your email with third parties or send you spam.": [
+  "pages/settings/update.tsx"
+ ],
+ "We've upgraded the benchmark scoring system. Re-run your benchmark to get an updated Score v2 result on the community leaderboard.": [
+  "pages/home.tsx"
+ ],
+ "Web": [
+  "components/CustomAppModal.tsx"
+ ],
+ "Web-based e-book reader and library manager for your Calibre collection": [
+  "service_seeder.ts"
+ ],
+ "Web-based file manager — browse, upload, download, and organize files on your device": [
+  "service_seeder.ts"
+ ],
+ "West North Central": [
+  "collections"
+ ],
+ "West South Central": [
+  "collections"
+ ],
+ "West_Virginia": [
+  "collections"
+ ],
+ "What do you want NOMAD to do?": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "What happens during an update?": [
+  "pages/settings/update.tsx"
+ ],
+ "What this is for": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "What's new in v1.34": [
+  "components/WhatsNewBanner.tsx"
+ ],
+ "When Using": [
+  "pages/drug-reference/show.tsx"
+ ],
+ "When indexed,": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "When on, the assistant searches your knowledge base for relevant documents before answering. Turning this off is faster and lighter on hardware, which helps when your knowledge base is small or empty. This is the same setting as in AI Assistant settings.": [
+  "components/chat/index.tsx"
+ ],
+ "When on, this model works through its reasoning before answering. Slower, but often better on tricky questions. Your choice is remembered for this model; the default for other models is set in AI Assistant settings.": [
+  "components/chat/index.tsx"
+ ],
+ "When you add new ZIMs, documents, or curated content, should": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "When you upload documents to your Knowledge Base, NOMAD processes and embeds the content, making it directly accessible to": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "While updates are designed to be safe, it's always recommended to backup any critical data before proceeding.": [
+  "pages/settings/update.tsx"
+ ],
+ "Why upload documents to your Knowledge Base?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Wikibooks": [
+  "collections"
+ ],
+ "Wikibooks (With Images)": [
+  "collections"
+ ],
+ "Wikipedia": [
+  "components/WikipediaSelector.tsx",
+  "pages/easy-setup/index.tsx"
+ ],
+ "Wikipedia Medicine": [
+  "collections"
+ ],
+ "Wikipedia download failed. Select a package and try again.": [
+  "components/WikipediaSelector.tsx"
+ ],
+ "Wikipedia download started": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Wikipedia removed successfully": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "Wikiversity": [
+  "collections"
+ ],
+ "Window End": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Window Start": [
+  "components/updates/ContentAutoUpdateSection.tsx",
+  "components/updates/CoreAutoUpdateSection.tsx"
+ ],
+ "Wipe & Rebuild": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "Wipe & Reinstall": [
+  "pages/supply-depot.tsx"
+ ],
+ "Wisconsin": [
+  "collections"
+ ],
+ "Woodworking Q&A": [
+  "collections"
+ ],
+ "Working...": [
+  "pages/supply-depot.tsx"
+ ],
+ "World base map not downloaded": [
+  "pages/settings/maps.tsx"
+ ],
+ "Write": [
+  "components/benchmark/BenchmarkRunView.tsx"
+ ],
+ "Wyoming": [
+  "collections"
+ ],
+ "Yellow": [
+  "hooks/useMapMarkers.ts"
+ ],
+ "Yes": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Yes, always": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "You can attach up to {0} images.": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "You can change this any time from the Knowledge Base panel inside AI Chat.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "You can change your selection at any time. Click Submit to confirm your choice.": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "You haven't selected anything to install or download. You can go back to make selections or go back to the home page.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "You maintain full control over your data. Uninstalling NOMAD or deleting these directories will permanently remove all associated data.": [
+  "pages/settings/legal.tsx"
+ ],
+ "You may see error notifications while the backend restarts during the update. This is completely normal and expected. Connection should be restored momentarily.": [
+  "pages/settings/update.tsx"
+ ],
+ "You must have an internet connection to complete the setup.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "You'll need an internet connection to proceed. Please connect to the internet and try again.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "You've customized this app, so it won't be overwritten by catalog updates.": [
+  "pages/supply-depot.tsx"
+ ],
+ "Your": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "Your Builder Tag": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Your Builder Tag:": [
+  "components/BuilderTagSelector.tsx"
+ ],
+ "Your NOMAD Score is a weighted composite of all benchmark results.": [
+  "components/benchmark/ScoreReveal.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "Your benchmark can be re-scored with Score v2": [
+  "pages/home.tsx"
+ ],
+ "Your benchmark has been submitted to the community leaderboard. Thanks for contributing!": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "Your content stays unindexed for now. You can opt in any time from the Knowledge Base panel.": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "Your data and configuration will be preserved during the update.": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "Your email address": [
+  "pages/settings/update.tsx"
+ ],
+ "Your global map build {0} ({1}) is stored locally and ready for offline use.": [
+  "pages/settings/maps.tsx"
+ ],
+ "Your system is running the latest version!": [
+  "pages/settings/update.tsx"
+ ],
+ "ZIM file deleted successfully": [
+  "zim_controller.ts"
+ ],
+ "ZIM file uploaded and registered successfully": [
+  "zim_controller.ts"
+ ],
+ "ZIM file with key {0} not found": [
+  "zim_controller.ts"
+ ],
+ "ZIM files only. Large files (up to 20 GB) are supported. For best results, upload from the same machine or over a stable LAN connection. Larger files should be copied directly to the storage volume": [
+  "components/ZimUploader/index.tsx"
+ ],
+ "Zero Telemetry:": [
+  "pages/settings/legal.tsx"
+ ],
+ "a cross-drug interaction checker and is": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "a substitute for professional medical review. Absence of text here does not mean a drug is safe to combine.": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "actual product you have": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "and can be edited directly.": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "and matches symptoms to over-the-counter options. It is provided for": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "and not a substitute for a doctor, pharmacist, or nurse.": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "and queue a fresh embedding job. The file on disk is not touched.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "as a system prompt on every chat.": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "as it arrives so": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "available versions": [
+  "components/UpdateServiceModal.tsx"
+ ],
+ "benchmark_id is required": [
+  "benchmark_controller.ts"
+ ],
+ "bottom start": [
+  "components/inputs/Select.tsx"
+ ],
+ "can reference them while answering your questions.": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "can search it.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "chunks embedded — ingestion may have stalled.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "collection and active are required.": [
+  "rag_controller.ts"
+ ],
+ "collection must be a string or null.": [
+  "rag_controller.ts"
+ ],
+ "contact a medical professional or call emergency services": [
+  "components/conditions/SafetyBanner.tsx",
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "container with GPU support enabled. Your downloaded models will be preserved. The service will be briefly unavailable during reinstall.": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "content categor": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "creator pack": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "currently inside": [
+  "components/updates/AppAutoUpdateSection.tsx",
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "currently on disk. The collection is dropped, recreated, and every file is re-queued for embedding.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "currently outside": [
+  "components/updates/AppAutoUpdateSection.tsx",
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "deleted, and any orphan points whose source file is no longer present will be preserved untouched (see": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "drops the entire collection. Orphan points are": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "drug labels installed. Updating re-checks openFDA for a newer dataset and refreshes the offline copy.": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "drugs reached": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "e.g. https://github.com/Crosstalk-Solutions/project-nomad-maps/raw/refs/heads/master/pmtiles/california.pmtiles": [
+  "pages/settings/maps.tsx"
+ ],
+ "e.g. nginx:latest": [
+  "components/CustomAppModal.tsx"
+ ],
+ "e.g., Debian Mirror": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "e.g., https://cdimage.debian.org/mirror/kiwix.org/zim/": [
+  "pages/settings/zim/remote-explorer.tsx"
+ ],
+ "embedding job — including ones still in progress or stuck — and clears the processing queue. The uploaded source files for those jobs are deleted, so you'll need to re-upload anything you still want indexed. Stored files that already finished embedding are not affected. Are you sure you want to proceed?": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "files)": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "for this service and cannot be undone. You should only do this if the service is malfunctioning and other troubleshooting steps have failed.": [
+  "pages/settings/apps.tsx"
+ ],
+ "free). Embedding can take several hours and is hard to interrupt cleanly once started.": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "freeCodeCamp": [
+  "collections"
+ ],
+ "from the Knowledge Base panel before": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "from the Knowledge Base panel.": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "gone forever": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "h; data cap": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "handles new content.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "host + port": [
+  "components/AppUrlModal.tsx"
+ ],
+ "iFixit Repair Guides": [
+  "collections"
+ ],
+ "if you want a fully clean slate).": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "in the": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "index them automatically so it can search them while answering your questions?": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "indexed automatically": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "indexes it.": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "information only": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "invalid condition": [
+  "conditions_controller.ts"
+ ],
+ "invalid id": [
+  "drug_reference_controller.ts"
+ ],
+ "is not installed.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "lat,lng": [
+  "pages/maps.tsx"
+ ],
+ "map region": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "may take a long time, especially for large PDFs or ZIM archives.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "name is required.": [
+  "rag_controller.ts"
+ ],
+ "not a drug-interaction checker": [
+  "components/conditions/SafetyBanner.tsx",
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "not a recommendation": [
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ "not an FDA endorsement": [
+  "components/conditions/SafetyBanner.tsx"
+ ],
+ "not medical advice": [
+  "components/drug-reference/DrugDisclaimerModal.tsx"
+ ],
+ "not reported by Ollama": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "not set yet": [
+  "components/LinkTileModal.tsx"
+ ],
+ "of additional storage if these are indexed for the AI Assistant": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "of disk space for embeddings, on top of the raw downloads.": [
+  "components/KbGuardrailModal.tsx"
+ ],
+ "of est.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "of these — here are options for each situation.": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "of ~": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "oldName and newName are required.": [
+  "rag_controller.ts"
+ ],
+ "on port": [
+  "pages/supply-depot.tsx"
+ ],
+ "openFDA": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/index.tsx",
+  "pages/drug-reference/interactions.tsx",
+  "pages/drug-reference/show.tsx"
+ ],
+ "opens from — useful if you reach it through a reverse proxy or local DNS. Leave this empty to use the default address (": [
+  "components/AppUrlModal.tsx"
+ ],
+ "out of 100": [
+  "components/benchmark/ScoreReveal.tsx",
+  "pages/settings/benchmark.tsx"
+ ],
+ "permanently delete every point": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "replaces vectors file-by-file. Any orphan points (vectors whose source file was deleted from disk at some point) are preserved.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "seek real medical care — call emergency services": [
+  "components/conditions/RemedySafetyNote.tsx"
+ ],
+ "selected)": [
+  "components/StorageProjectionBar.tsx"
+ ],
+ "setting is": [
+  "components/TierSelectionModal.tsx"
+ ],
+ "source and active are required.": [
+  "rag_controller.ts"
+ ],
+ "source is required.": [
+  "rag_controller.ts"
+ ],
+ "storage/NOMAD.md": [
+  "components/chat/NomadMdModal.tsx"
+ ],
+ "this part": [
+  "components/drug-reference/IngestStatus.tsx"
+ ],
+ "tiers available": [
+  "components/CategoryCard.tsx"
+ ],
+ "tiles, ~": [
+  "components/CountryPickerModal.tsx"
+ ],
+ "to confirm:": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "to reference your specific documents during conversations, providing more accurate and personalized responses based on your uploaded data.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "to run full benchmarks and share results with the community.": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "update(s) available": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "used this window)": [
+  "components/updates/ContentAutoUpdateSection.tsx"
+ ],
+ "videos from": [
+  "components/CreatorPacksSection.tsx"
+ ],
+ "videos ·": [
+  "components/CreatorPackCard.tsx"
+ ],
+ "wait for you to opt in": [
+  "pages/easy-setup/index.tsx"
+ ],
+ "will remain free": [
+  "components/StorageProjectionBar.tsx"
+ ],
+ "will start a new chat. Your current conversation stays available in the sidebar.": [
+  "components/chat/index.tsx"
+ ],
+ "without any extra steps.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "{0} (not installed)": [
+  "pages/settings/models.tsx"
+ ],
+ "{0} Settings | Project NOMAD": [
+  "pages/settings/models.tsx"
+ ],
+ "{0} benchmark started": [
+  "benchmark_controller.ts"
+ ],
+ "{0} exceeds the 8 MB per-image limit.": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "{0} file{1} queued for processing.": [
+  "components/chat/KnowledgeBaseModal.tsx"
+ ],
+ "{0} has been deleted.": [
+  "pages/settings/maps.tsx"
+ ],
+ "{0} is being reinstalled with GPU support. This page will reload shortly.": [
+  "components/GpuPassthroughAlert.tsx"
+ ],
+ "{0} is not supported. Use JPEG, PNG, or WebP.": [
+  "components/chat/ChatInterface.tsx"
+ ],
+ "{0} must be installed to run AI benchmark": [
+  "pages/settings/benchmark.tsx"
+ ],
+ "{0} update(s) could not be started": [
+  "components/updates/ContentUpdatesSection.tsx"
+ ],
+ "{0} will index your existing content. You can track progress in the Knowledge Base panel.": [
+  "components/chat/KbPolicyPromptBanner.tsx"
+ ],
+ "{0}'s dependencies are not installed. Please install them to manage AI models.": [
+  "pages/settings/models.tsx"
+ ],
+ "| Size:": [
+  "components/CuratedCollectionCard.tsx"
+ ],
+ "· last activity": [
+  "components/ActiveEmbedJobs.tsx"
+ ],
+ "— every report makes NOMAD better": [
+  "pages/settings/support.tsx"
+ ],
+ "— hang out, share your build, help other users": [
+  "pages/settings/support.tsx"
+ ],
+ "— it helps more people discover NOMAD": [
+  "pages/settings/support.tsx"
+ ],
+ "— public domain (CC0 1.0). NOMAD is not affiliated with or endorsed by the FDA.": [
+  "pages/conditions/show.tsx",
+  "pages/drug-reference/show.tsx"
+ ],
+ "— public domain (CC0 1.0). NOMAD is not affiliated with or endorsed by the FDA. Label data and situation matches are label-text only; do not rely on them for medical decisions.": [
+  "pages/drug-reference/index.tsx"
+ ],
+ "— public domain (CC0 1.0). NOMAD is not affiliated with or endorsed by the FDA. Label data is provided as-is; do not rely on it for medical decisions.": [
+  "pages/drug-reference/interactions.tsx"
+ ],
+ "” in the current label data. Try searching by drug name in": [
+  "pages/conditions/show.tsx"
+ ],
+ "• Refreshing data every 30 seconds": [
+  "pages/settings/system.tsx"
+ ]
+}
