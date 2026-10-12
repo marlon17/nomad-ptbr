@@ -7,7 +7,8 @@ LAYOUT=/app/resources/views/inertia_layout.edge
 if [ -f /ptbr/ptbr.js ]; then
   cp /ptbr/ptbr.js /app/public/ptbr.js
   if [ -f "$LAYOUT" ] && ! grep -q '/ptbr.js' "$LAYOUT"; then
-    sed -i 's|</head>|  <script src="/ptbr.js" defer></script>\n</head>|' "$LAYOUT"
+    # Logo no início do <head>: roda antes do app, para as datas/números já saírem em pt-BR.
+    sed -i '0,/<head>/s|<head>|<head>\n  <script src="/ptbr.js" defer></script>|' "$LAYOUT"
   fi
   echo "[ptbr] Traducao da interface aplicada."
 fi

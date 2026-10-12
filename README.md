@@ -8,8 +8,8 @@ Tradução **comunitária e não oficial** do [Project NOMAD](https://github.com
 
 | | |
 |---|---|
-| **Interface em PT-BR** | ~2.000 textos da Central de Comando (menus, botões, avisos, janelas, títulos) |
-| **Documentação em PT-BR** | Início, Primeiros Passos, Perguntas Frequentes, Casos de Uso, Apps, Atualizações e mais |
+| **Interface em PT-BR** | ~2.500 textos da Central de Comando (menus, botões, avisos, janelas, títulos), frases com variáveis, nomes de países, descrições dos modelos de IA, datas e números no formato brasileiro |
+| **Documentação em PT-BR** | Início, Primeiros Passos, Perguntas Frequentes, Casos de Uso, Apps, Atualizações, Referência da API e mais |
 | **Pacote Brasil** | Wikipedia, iFixit, Wikilivros, Medicina e outros conteúdos em português, com 1 comando |
 | **Acesso pela rede (Windows/WSL)** | Script para abrir o NOMAD no celular e em outros aparelhos do Wi-Fi |
 
@@ -83,7 +83,10 @@ Para achar textos novos após uma atualização do NOMAD (com o repositório ofi
 cd tools && npm install
 node extract.js ../../project-nomad/admin/inertia novos.json
 node extract-loose.js novos-amplo.json ../../project-nomad/admin/inertia ../../project-nomad/admin/app
+node extract-frases.js ../../project-nomad/admin/inertia novas-frases.json
 ```
+
+Frases novas (texto + variáveis) vão em `traducao/frases.json`; compare com `traducao/frases-en.json`.
 
 Compare com `traducao/textos-en.json` e adicione as entradas que faltam em `traducao/pt-BR.json`.
 
@@ -92,7 +95,10 @@ Compare com `traducao/textos-en.json` e adicione as entradas que faltam em `trad
 | Caminho | Conteúdo |
 |---|---|
 | `instalar.sh` | Instala / atualiza / remove a tradução |
-| `traducao/pt-BR.json` | Dicionário inglês → português |
+| `traducao/pt-BR.json` | Dicionário inglês → português (interface) |
+| `traducao/frases.json` | Frases montadas em pedaços (texto + variáveis) |
+| `traducao/modelos.json` | Descrições dos modelos de IA |
+| `traducao/paises.json` | Nomes de países (gerado por `tools/paises.js`) |
 | `traducao/textos-en.json` | Textos extraídos do código do NOMAD |
 | `src/ptbr-runtime.js` | Tradutor que roda no navegador |
 | `src/entrypoint-ptbr.sh` | Aplica a tradução dentro do container |
