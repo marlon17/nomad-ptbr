@@ -22,10 +22,13 @@ foreach ($linha in $existentes) {
     netsh interface portproxy delete v4tov4 listenaddress=$ip listenport=$porta | Out-Null
   }
 }
+foreach ($p in $portas) {
+  netsh interface portproxy delete v6tov4 listenaddress=::1 listenport=$p 2>$null | Out-Null
+}
 Get-NetFirewallRule -DisplayName $nomeRegra -ErrorAction SilentlyContinue | Remove-NetFirewallRule
 
 if ($Remover) {
-  Write-Host 'Acesso pela rede removido. O NOMAD volta a abrir so neste PC.'
+  Write-Host 'Acesso pela rede removido. O NOMAD volta a abrir so neste PC (use http://127.0.0.1:8080).'
   exit 0
 }
 
@@ -37,6 +40,9 @@ if (-not $ip) { throw 'Nao achei o IP deste PC na rede local.' }
 
 foreach ($p in $portas) {
   netsh interface portproxy add v4tov4 listenaddress=$ip listenport=$p connectaddress=127.0.0.1 connectport=$p | Out-Null
+  # "localhost" no navegador tenta primeiro o IPv6 (::1), que o WSL nao atende em algumas portas
+  # e a pagina fica carregando para sempre. Redireciona ::1 para o 127.0.0.1.
+  netsh interface portproxy add v6tov4 listenaddress=::1 listenport=$p connectaddress=127.0.0.1 connectport=$p | Out-Null
 }
 
 # Firewall: so redes Privadas (casa), nunca Publicas.
